@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zaokret-dev.github.io/visit-istria/sitemap.xml

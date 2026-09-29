@@ -1,0 +1,190 @@
+Photos used on the site (47 files). Put your own photos in assets/img/ with exactly these file names.
+Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
+
+2025-05-boat-excursions-in-pula.jpg
+   pages: boat-excursions-pula
+   shows: Boat excursion in Pula
+
+2025-05-boat-excursions-pula-brijuni-sunset.jpg
+   pages: boat-tours-pula
+   shows: Brijuni at sunset
+
+2025-05-boat-excursions-pula.jpg
+   pages: home
+   shows: Boat excursion from Pula along the Brijuni Islands coastline
+
+2025-05-boat-tour-pula-around-brijuni-islands.jpg
+   pages: services, boat-tours-pula, brijuni-islands-boat-tour
+   shows: Boat tour around the Brijuni Islands / Boat tour around the Brijuni Islands from Pula / Cruise around the Brijuni archipelago
+
+2025-05-day-tour-pula.jpg
+   pages: boat-tours-pula
+   shows: Guests on the day boat tour
+
+2025-05-daytime-tour-pula-swimming.jpg
+   pages: home, boat-tours-pula
+   shows: Swimming stop at St. Jerolim on the day boat tour / Day tour with swimming
+
+2025-05-dolphin-tour-pula-brijuni.jpg
+   pages: boat-excursions-pula
+   shows: Dolphin watching near Brijuni
+
+2025-05-dolphins-tour-pula-sunset.jpg
+   pages: dolphin-tour-pula
+   shows: Sunset over the sea near Pula
+
+2025-05-dolphins-tour-pula.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphin tour from Pula
+
+2025-05-kayak-in-pula.jpg
+   pages: home, services, kayak-tours-pula
+   shows: Kayak / Kayak tour in Pula / Kayak tour on the coast near Pula
+
+2025-05-kayak-tour-pula.jpg
+   pages: kayak-tours-pula
+   shows: Kayak tour in Pula
+
+2025-05-pula-boat-tours.jpg
+   pages: services, boat-excursions-pula
+   shows: Boat tour from Pula to Brijuni / Boat tour from Pula to Brijuni National Park
+
+2025-05-sunset-boat-excursions-pula.jpg
+   pages: boat-tours-pula, dolphin-tour-pula
+   shows: Sunset from the boat / Evening cruise from Pula
+
+2025-05-sunset-dolphins-tour-pula.jpg
+   pages: home, boat-tours-pula
+   shows: Sunset boat tour with dolphins near Brijuni / Sunset tour with dolphins
+
+2025-05-sunset-dolphins-tour.jpg
+   pages: services, dolphin-tour-pula
+   shows: Sunset dolphin tour near Brijuni / Sunset dolphin tour near the Brijuni Islands
+
+2025-06-beach-bungalow-istria-pula.jpg
+   pages: home, services, bungalow-pula
+   shows: Bungalow / Bungalow in Pula / Bungalow near the beach in Pula
+
+2025-06-boat-excursions-pula-brijuni-islands.jpg
+   pages: istria-guide, brijuni-islands-boat-tour
+   shows: Boat tour from Pula to the Brijuni Islands / Brijuni Islands from the boat
+
+2025-06-boat-excursions-pula-brijuni-national-park.jpg
+   pages: home, services, brijuni-islands-boat-tour
+   shows: Brijuni Islands / Brijuni Islands National Park / Boat excursion around the Brijuni Islands National Park
+
+2025-06-boat-excursions-pula-brijuni.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Boat excursion near Brijuni
+
+2025-06-boat-tours-pula-brijuni.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Boat tour to Brijuni
+
+2025-06-bungalow-pula-istria.jpg
+   pages: bungalow-pula
+   shows: Bungalow in Pula
+
+2025-06-cozy-bungalow-pula-istria.jpg
+   pages: bungalow-pula
+   shows: Cosy bungalow terrace
+
+2025-06-visit-in-istria-pula-brijuni-islands.png
+   pages: istria-guide (social-media preview only)
+   shows: Boat tour from Pula to the Brijuni Islands
+
+2025-06-visit-istria-pula-brijuni.jpg
+   pages: services (social-media preview only)
+   shows: Boats and the coast at Pula
+
+2025-07-apartment-in-pula.jpg
+   pages: apartments-pula-fazana
+   shows: Apartment interior in Pula
+
+2025-07-blue-cave-boat-excursions-pula-istria.jpg
+   pages: cave-swimming-tour-pula
+   shows: Blue cave boat excursion from Pula
+
+2025-07-blue-cave-boat-excursions-pula.jpg
+   pages: cave-swimming-tour-pula
+   shows: Blue cave near Pula visited by boat
+
+2025-07-bungalow-pula.jpg
+   pages: bungalow-pula
+   shows: Bungalow garden in Pula
+
+2025-07-bungalows-apartments-pula-1.jpg
+   pages: about
+   shows: Bungalow and apartment accommodation in Pula
+
+2025-07-rent-a-boat-pula-with-skipper.jpg
+   pages: home, services, rent-a-boat-pula
+   shows: Rent a boat / Rent a boat in Pula with skipper / Rent a boat in Pula with a skipper
+
+2025-07-rent-a-luxury-boat-pula-with-skipper.jpg
+   pages: rent-a-boat-pula
+   shows: Luxury boat rental in Pula with skipper
+
+2025-07-your-adriatic-dream-apartment-in-pula-istria.jpg
+   pages: apartments-pula-fazana
+   shows: Adriatic apartment in Pula
+
+2026-02-diving-tour-cave.jpg
+   pages: scuba-diving-pula
+   shows: Diving tour near a cave
+
+2026-02-rovinj-happy-tourists.jpg
+   pages: home, services, rovinj-venice-boat-trips
+   shows: Guests on the Rovinj and Vrsar day trip / Tourists on the Rovinj boat trip / Guests enjoying the Rovinj boat trip
+
+2026-02-scuba-diving-pula.jpg
+   pages: home, services, scuba-diving-pula
+   shows: Scuba diving / Scuba diving in Pula
+
+2026-02-venice-basilica.jpg
+   pages: home, rovinj-venice-boat-trips
+   shows: St. Mark's Basilica in Venice
+
+2026-03-apartment-pula-family-scaled.jpg
+   pages: home, services, apartments-pula-fazana
+   shows: Apartments / Family apartment in Pula
+
+2026-03-bungalows-pula-marina-view.jpg
+   pages: bungalow-pula
+   shows: Bungalows with marina view
+
+2026-03-cave-swimming-tour-pula.jpg
+   pages: home, services, cave-swimming-tour-pula
+   shows: Cave swimming / Cave swimming tour near Pula
+
+2026-03-dolphin-tour-pula-istria.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphins near the boat
+
+2026-03-luxury-yacht-near-brijuni-islands.jpg
+   pages: yacht-rental-pula
+   shows: Luxury motor yacht near the Brijuni Islands
+
+2026-03-luxury-yacht-pula-with-croatian-flag.jpg
+   pages: yacht-rental-pula
+   shows: Yacht in Pula marina
+
+2026-03-luxury-yacht-rental-in-pula.jpg
+   pages: home, services, yacht-rental-pula
+   shows: Yacht charter / Luxury yacht rental in Pula
+
+2026-03-private-yacht-charter-from-pula-harbor.jpg
+   pages: yacht-rental-pula
+   shows: Private yacht charter leaving Pula harbour
+
+2026-04-boat-tours-pula-brijuni.jpg
+   pages: about, boat-tours-pula
+   shows: Boat excursion leaving the Riva in Pula / Boat tour from Pula
+
+2026-05-sunset-dolphins-play.jpg
+   pages: boat-excursions-pula
+   shows: Dolphins playing near the boat
+
+2026-05-visit-istria-boat-excursions.jpg
+   pages: about
+   shows: Boat excursion from Pula

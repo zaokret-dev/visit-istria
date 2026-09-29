@@ -12,7 +12,7 @@ Replace the placeholder with your domain (canonical, hreflang, Open Graph, JSON-
 
 ## 2. Placeholders to replace before launch
 - Phones (+385 91 555 0142, +44 7700 900142) and the e-mail are placeholders. Search and replace them in all files, or edit `core.mjs` and rebuild with `node build.mjs`.
-- Photos: put your own photos in `assets/img/` using the file names listed in `images.txt` (or run `sh download-images.sh` for the source set). For speed and SEO keep each photo about 1600 px wide, compressed to under 200 KB (for example with squoosh.app), and keep the file names – they are descriptive on purpose.
+- Photos: put your own photos in `assets/img/` using the file names listed in `PHOTOS.txt` (it says where each photo is used and what it should show). For speed and SEO keep each photo about 1600 px wide, compressed to under 200 KB (for example with squoosh.app), and keep the file names – they are descriptive on purpose.
 - German, Italian, French, Hungarian, Czech, Polish and Croatian texts were machine-assisted. Have a native speaker read them once.
 
 ## 3. Hosting

@@ -8,7 +8,7 @@ Pure HTML, CSS and JavaScript. Upload this folder to any static host. 144 pages:
 ## 1. Set the domain
 Replace the placeholder with your domain (canonical, hreflang, Open Graph, JSON-LD, sitemap, robots, e-mail address):
 
-    grep -rl "zaokret-dev.github.io" . | xargs sed -i 's#zaokret-dev.github.io#your-domain.com#g'
+    grep -rl "YOUR-NEW-DOMAIN.com" . | xargs sed -i 's#YOUR-NEW-DOMAIN.com#your-domain.com#g'
 
 ## 2. Placeholders to replace before launch
 - Phones (+385 91 555 0142, +44 7700 900142) and the e-mail are placeholders. Search and replace them in all files, or edit `core.mjs` and rebuild with `node build.mjs`.

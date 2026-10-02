@@ -1,4 +1,4 @@
-# Visit Istria – static site (EN, DE, IT, FR, HU, CS, PL, HR)
+# Try Istria – static site (EN, DE, IT, FR, HU, CS, PL, HR)
 
 Pure HTML, CSS and JavaScript. Upload this folder to any static host. 144 pages: 18 pages x 8 languages.
 

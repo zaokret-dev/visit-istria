@@ -1,4 +1,4 @@
-/* Visit Istria – site behaviour (no dependencies) */
+/* Try Istria – site behaviour (no dependencies) */
 (function () {
 'use strict';
 var cfg = { wa: '385915550142', email: 'info@YOUR-NEW-DOMAIN.com', form: {} };

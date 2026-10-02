@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-NEW-DOMAIN.com/sitemap.xml
+Sitemap: https://zaokret-dev.github.io/visit-istria/sitemap.xml

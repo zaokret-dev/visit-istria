@@ -11,7 +11,7 @@ Replace the placeholder with your domain (canonical, hreflang, Open Graph, JSON-
     grep -rl "YOUR-NEW-DOMAIN.com" . | xargs sed -i 's#YOUR-NEW-DOMAIN.com#your-domain.com#g'
 
 ## 2. Placeholders to replace before launch
-- The phone (+385 91 760 1837) is a placeholder. Search and replace them in all files, or edit `core.mjs` and rebuild with `node build.mjs`.
+- The phone (+385 91 55 77 230) is a placeholder. Search and replace them in all files, or edit `core.mjs` and rebuild with `node build.mjs`.
 - Photos: put your own photos in `assets/img/` using the file names listed in `PHOTOS.txt` (it says where each photo is used and what it should show). For speed and SEO keep each photo about 1600 px wide, compressed to under 200 KB (for example with squoosh.app), and keep the file names – they are descriptive on purpose.
 - German, Italian, French, Hungarian, Czech, Polish and Croatian texts were machine-assisted. Have a native speaker read them once.
 

@@ -1,7 +1,7 @@
 /* Try Istria – site behaviour (no dependencies) */
 (function () {
 'use strict';
-var cfg = { wa: '385915550142', email: 'info@YOUR-NEW-DOMAIN.com', form: {} };
+var cfg = { wa: '385915550142', email: 'info@tryistria.com', form: {} };
 try {
 var cfgEl = document.getElementById('vi-i18n');
 if (cfgEl) { cfg = JSON.parse(cfgEl.textContent); }

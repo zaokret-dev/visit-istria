@@ -1,4 +1,4 @@
-Photos used on the site (43 files). Put your own photos in assets/img/ with exactly these file names.
+Photos used on the site (55 files). Put your own photos in assets/img/ with exactly these file names.
 Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
 
 accommodation-pula.jpg
@@ -109,6 +109,14 @@ family-apartment-pula.jpg
    pages: home, services, apartments-pula-fazana
    shows: Apartments / Family apartment in Pula
 
+fazana-harbour-sunset.jpg
+   pages: istria-guide
+   shows: Fažana harbour at sunset
+
+istrian-coast-from-above.jpg
+   pages: istria-guide
+   shows: Rocky Istrian coast and clear sea
+
 kayak-tour-coast.jpg
    pages: kayak-tours-pula
    shows: Kayak tour in Pula
@@ -125,6 +133,14 @@ private-yacht-charter.jpg
    pages: yacht-rental-pula
    shows: Private yacht charter leaving Pula harbour
 
+pula-arena-from-above.jpg
+   pages: istria-guide
+   shows: Pula Arena from above
+
+pula-arena.jpg
+   pages: istria-guide
+   shows: The Roman amphitheatre in Pula
+
 pula-harbour-boats.jpg
    pages: about, boat-tours-pula
    shows: Boat excursion leaving the Riva in Pula / Boat tour from Pula
@@ -133,9 +149,25 @@ rent-a-boat-pula.jpg
    pages: home, services, rent-a-boat-pula
    shows: Rent a boat / Rent a boat in Pula with skipper / Rent a boat in Pula with a skipper
 
+rovinj-at-dusk.jpg
+   pages: istria-guide
+   shows: Rovinj at dusk
+
 rovinj-old-town.jpg
    pages: home, services, rovinj-venice-boat-trips
    shows: Guests on the Rovinj and Vrsar day trip / Tourists on the Rovinj boat trip / Guests enjoying the Rovinj boat trip
+
+rovinj-panorama.jpg
+   pages: rovinj-venice-boat-trips
+   shows: Rovinj seen from the sea
+
+rovinj-skyline.jpg
+   pages: rovinj-venice-boat-trips
+   shows: Rovinj and the bell tower of St. Euphemia
+
+rovinj-sunset.jpg
+   pages: rovinj-venice-boat-trips
+   shows: Rovinj old town at sunset
 
 scuba-diving-pula.jpg
    pages: home, services, scuba-diving-pula
@@ -164,6 +196,22 @@ sunset-over-sea-pula.jpg
 swimming-stop-boat-trip.jpg
    pages: home, boat-tours-pula
    shows: Swimming stop at St. Jerolim on the day boat tour / Day tour with swimming
+
+temple-of-augustus-pula.jpg
+   pages: istria-guide
+   shows: Temple of Augustus in Pula
+
+venice-doges-palace.jpg
+   pages: rovinj-venice-boat-trips
+   shows: Courtyard of the Doge's Palace in Venice
+
+venice-grand-canal.jpg
+   pages: rovinj-venice-boat-trips
+   shows: Gondola on the Grand Canal in Venice
+
+venice-santa-maria-della-salute.jpg
+   pages: rovinj-venice-boat-trips
+   shows: Santa Maria della Salute in Venice
 
 venice-st-marks-basilica.jpg
    pages: home, rovinj-venice-boat-trips

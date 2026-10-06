@@ -142,6 +142,55 @@ var body = (L.msgName || 'Name') + ': ' + f.name.value + '\n' + (L.guestServiceL
 window.location.href = 'mailto:' + EMAIL + '?subject=' + encodeURIComponent(L.guestSubject || 'Guest feedback') + '&body=' + encodeURIComponent(body);
 });
 }
+(function () {
+var T = { en: ['Close', 'Previous photo', 'Next photo'], de: ['Schließen', 'Vorheriges Foto', 'Nächstes Foto'], it: ['Chiudi', 'Foto precedente', 'Foto successiva'], fr: ['Fermer', 'Photo précédente', 'Photo suivante'], hu: ['Bezárás', 'Előző fotó', 'Következő fotó'], cs: ['Zavřít', 'Předchozí fotografie', 'Další fotografie'], pl: ['Zamknij', 'Poprzednie zdjęcie', 'Następne zdjęcie'], hr: ['Zatvori', 'Prethodna fotografija', 'Sljedeća fotografija'] };
+var t = T[(document.documentElement.lang || 'en').slice(0, 2)] || T.en;
+var imgs = Array.prototype.filter.call(document.querySelectorAll('main img, .page-hero img, .gallery img'), function (im) {
+return !im.closest('a') && !im.closest('button') && !im.classList.contains('img-missing') && im.offsetParent !== null;
+});
+imgs = imgs.filter(function (im, i) { return imgs.indexOf(im) === i; });
+if (!imgs.length) { return; }
+var box = document.createElement('div');
+box.className = 'lb'; box.hidden = true; box.setAttribute('role', 'dialog'); box.setAttribute('aria-modal', 'true');
+box.innerHTML = '<button type="button" class="lb-x" aria-label="' + t[0] + '">&times;</button>' +
+'<button type="button" class="lb-nav lb-prev" aria-label="' + t[1] + '">&#8249;</button>' +
+'<figure><img alt=""><figcaption></figcaption></figure>' +
+'<button type="button" class="lb-nav lb-next" aria-label="' + t[2] + '">&#8250;</button>';
+document.body.appendChild(box);
+var big = box.querySelector('img'), cap = box.querySelector('figcaption'), cur = 0, last = null;
+function show(i) {
+cur = (i + imgs.length) % imgs.length;
+var im = imgs[cur];
+big.src = im.currentSrc || im.src; big.alt = im.alt || '';
+cap.textContent = im.alt || '';
+box.querySelector('.lb-prev').hidden = box.querySelector('.lb-next').hidden = imgs.length < 2;
+}
+function open(i) { last = document.activeElement; show(i); box.hidden = false; document.documentElement.classList.add('lb-open'); box.querySelector('.lb-x').focus(); }
+function close() { box.hidden = true; document.documentElement.classList.remove('lb-open'); big.removeAttribute('src'); if (last && last.focus) { last.focus(); } }
+imgs.forEach(function (im, i) {
+im.classList.add('zoomable'); im.setAttribute('tabindex', '0');
+im.addEventListener('click', function () { open(i); });
+im.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(i); } });
+});
+box.addEventListener('click', function (e) {
+if (e.target.closest('.lb-prev')) { show(cur - 1); }
+else if (e.target.closest('.lb-next')) { show(cur + 1); }
+else if (e.target.closest('.lb-x') || !e.target.closest('figure img')) { close(); }
+});
+document.addEventListener('keydown', function (e) {
+if (box.hidden) { return; }
+if (e.key === 'Escape') { close(); }
+else if (e.key === 'ArrowLeft') { show(cur - 1); }
+else if (e.key === 'ArrowRight') { show(cur + 1); }
+});
+var sx = null;
+box.addEventListener('touchstart', function (e) { sx = e.touches[0].clientX; }, { passive: true });
+box.addEventListener('touchend', function (e) {
+if (sx === null) { return; }
+var dx = e.changedTouches[0].clientX - sx; sx = null;
+if (Math.abs(dx) > 50) { show(cur + (dx < 0 ? 1 : -1)); }
+});
+})();
 var y = document.getElementById('year');
 if (y) { y.textContent = new Date().getFullYear(); }
 })();

@@ -1,21 +1,9 @@
-Photos used on the site (55 files). Put your own photos in assets/img/ with exactly these file names.
+Photos used on the site (54 files). Put your own photos in assets/img/ with exactly these file names.
 Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
 
-accommodation-pula.jpg
-   pages: about
-   shows: Bungalow and apartment accommodation in Pula
-
-apartment-interior-pula.jpg
+apartment-rovinj-old-town.jpg
    pages: apartments-pula-fazana
-   shows: Apartment interior in Pula
-
-apartment-terrace-pula.jpg
-   pages: apartments-pula-fazana
-   shows: Adriatic apartment in Pula
-
-beach-bungalow-pula.jpg
-   pages: home, services, bungalow-pula
-   shows: Bungalow / Bungalow in Pula / Bungalow near the beach in Pula
+   shows: Apartment entrance in Rovinj old town
 
 blue-cave-boat-trip.jpg
    pages: cave-swimming-tour-pula
@@ -33,33 +21,29 @@ boat-excursion-pula.jpg
    pages: boat-excursions-pula
    shows: Boat excursion in Pula
 
-boat-near-brijuni.jpg
-   pages: brijuni-islands-boat-tour
-   shows: Boat excursion near Brijuni
-
-boat-to-brijuni.jpg
-   pages: brijuni-islands-boat-tour
-   shows: Boat tour to Brijuni
-
 boat-tour-around-brijuni.jpg
-   pages: services, boat-tours-pula, brijuni-islands-boat-tour
-   shows: Boat tour around the Brijuni Islands / Boat tour around the Brijuni Islands from Pula / Cruise around the Brijuni archipelago
+   pages: services, boat-tours-pula
+   shows: Boat tour around the Brijuni Islands / Boat tour around the Brijuni Islands from Pula
 
 boat-trip-pula.jpg
    pages: home
    shows: Boat excursion from Pula along the Brijuni Islands coastline
 
 brijuni-from-the-sea.jpg
-   pages: istria-guide, brijuni-islands-boat-tour
-   shows: Boat tour from Pula to the Brijuni Islands / Brijuni Islands from the boat
+   pages: istria-guide
+   shows: Boat tour from Pula to the Brijuni Islands
+
+brijuni-golf-course.jpg
+   pages: home, services, brijuni-islands-boat-tour
+   shows: Golf course on Veliki Brijun
 
 brijuni-islands-istria.jpg
    pages: istria-guide (social-media preview only)
    shows: Boat tour from Pula to the Brijuni Islands
 
-brijuni-national-park.jpg
-   pages: home, services, brijuni-islands-boat-tour
-   shows: Brijuni Islands / Brijuni Islands National Park / Boat excursion around the Brijuni Islands National Park
+brijuni-lighthouse.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Lighthouse near the Brijuni Islands
 
 brijuni-sunset-cruise.jpg
    pages: boat-tours-pula
@@ -113,6 +97,14 @@ fazana-harbour-sunset.jpg
    pages: istria-guide
    shows: Fažana harbour at sunset
 
+holiday-house-fazana.jpg
+   pages: apartments-pula-fazana
+   shows: Holiday house in Fažana
+
+holiday-houses-istria.jpg
+   pages: about
+   shows: Colourful houses in an Istrian town
+
 istrian-coast-from-above.jpg
    pages: istria-guide
    shows: Rocky Istrian coast and clear sea
@@ -124,6 +116,10 @@ kayak-tour-coast.jpg
 luxury-yacht-charter-pula.jpg
    pages: home, services, yacht-rental-pula
    shows: Yacht charter / Luxury yacht rental in Pula
+
+mobile-home-bungalow.jpg
+   pages: home, services, bungalow-pula
+   shows: Mobile-home bungalow among the pines
 
 motor-yacht-brijuni.jpg
    pages: yacht-rental-pula

@@ -1,4 +1,4 @@
-Photos used on the site (54 files). Put your own photos in assets/img/ with exactly these file names.
+Photos used on the site (55 files). Put your own photos in assets/img/ with exactly these file names.
 Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
 
 apartment-rovinj-old-town.jpg
@@ -29,13 +29,21 @@ boat-trip-pula.jpg
    pages: home
    shows: Boat excursion from Pula along the Brijuni Islands coastline
 
-brijuni-from-the-sea.jpg
-   pages: istria-guide
-   shows: Boat tour from Pula to the Brijuni Islands
+boats-anchored-bay-istria.jpg
+   pages: boat-tours-pula
+   shows: Boats at anchor in an Istrian bay
 
 brijuni-golf-course.jpg
    pages: home, services, brijuni-islands-boat-tour
    shows: Golf course on Veliki Brijun
+
+brijuni-island-ruins.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Brijuni island shore with old stone ruins
+
+brijuni-islands-from-boat.jpg
+   pages: istria-guide, brijuni-islands-boat-tour
+   shows: Brijuni Islands seen from the boat
 
 brijuni-islands-istria.jpg
    pages: istria-guide (social-media preview only)
@@ -45,10 +53,6 @@ brijuni-lighthouse.jpg
    pages: brijuni-islands-boat-tour
    shows: Lighthouse near the Brijuni Islands
 
-brijuni-sunset-cruise.jpg
-   pages: boat-tours-pula
-   shows: Brijuni at sunset
-
 bungalow-exterior-pula.jpg
    pages: bungalow-pula
    shows: Bungalow in Pula
@@ -57,17 +61,21 @@ bungalow-garden-pula.jpg
    pages: bungalow-pula
    shows: Bungalow garden in Pula
 
+bungalow-porch.jpg
+   pages: bungalow-pula
+   shows: Bungalow porch with a covered terrace
+
 bungalow-terrace-pula.jpg
    pages: bungalow-pula
    shows: Cosy bungalow terrace
 
-bungalows-marina-view.jpg
-   pages: bungalow-pula
-   shows: Bungalows with marina view
-
 cave-swimming-pula.jpg
    pages: home, services, cave-swimming-tour-pula
    shows: Cave swimming / Cave swimming tour near Pula
+
+cormorants-rocky-coast-istria.jpg
+   pages: dolphin-tour-pula
+   shows: Cormorants on a rock off the Istrian coast
 
 day-boat-trip-pula.jpg
    pages: boat-tours-pula
@@ -145,6 +153,10 @@ rent-a-boat-pula.jpg
    pages: home, services, rent-a-boat-pula
    shows: Rent a boat / Rent a boat in Pula with skipper / Rent a boat in Pula with a skipper
 
+rocky-coast-waves-istria.jpg
+   pages: boat-tours-pula, dolphin-tour-pula
+   shows: Waves on the rocky Istrian coast
+
 rovinj-at-dusk.jpg
    pages: istria-guide
    shows: Rovinj at dusk
@@ -180,14 +192,6 @@ sea-kayak-pula.jpg
 speedboat-rental-pula.jpg
    pages: rent-a-boat-pula
    shows: Luxury boat rental in Pula with skipper
-
-sunset-boat-trip-istria.jpg
-   pages: boat-tours-pula, dolphin-tour-pula
-   shows: Sunset from the boat / Evening cruise from Pula
-
-sunset-over-sea-pula.jpg
-   pages: dolphin-tour-pula
-   shows: Sunset over the sea near Pula
 
 swimming-stop-boat-trip.jpg
    pages: home, boat-tours-pula

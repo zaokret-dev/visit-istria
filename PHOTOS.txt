@@ -91,7 +91,7 @@ dolphin-watching-pula.jpg
 
 dolphins-at-sunset-pula.jpg
    pages: home, services, boat-tours-pula, dolphin-tour-pula
-   shows: Sunset boat tour with dolphins near Brijuni / Sunset dolphin tour near Brijuni / Sunset tour with dolphins / Sunset dolphin tour near the Brijuni Islands
+   shows: Sunset boat tour with dolphins near Brijuni / Sunset dolphin tour near Brijuni / Evening tour with dolphins / Sunset dolphin tour near the Brijuni Islands
 
 dolphins-near-boat.jpg
    pages: boat-excursions-pula, dolphin-tour-pula

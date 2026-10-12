@@ -1,4 +1,4 @@
-Photos used on the site (55 files). Put your own photos in assets/img/ with exactly these file names.
+Photos used on the site (66 files). Put your own photos in assets/img/ with exactly these file names.
 Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
 
 apartment-rovinj-old-town.jpg
@@ -33,16 +33,24 @@ boats-anchored-bay-istria.jpg
    pages: boat-tours-pula
    shows: Boats at anchor in an Istrian bay
 
+brijuni-archipelago-from-above.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Brijuni archipelago from high above
+
+brijuni-clear-sea-coast.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Clear sea along a Brijuni island coast
+
 brijuni-golf-course.jpg
    pages: home, services, brijuni-islands-boat-tour
    shows: Golf course on Veliki Brijun
 
-brijuni-island-ruins.jpg
+brijuni-islands-channel-aerial.jpg
    pages: brijuni-islands-boat-tour
-   shows: Brijuni island shore with old stone ruins
+   shows: Brijuni Islands from above, with a clear channel between two islands
 
 brijuni-islands-from-boat.jpg
-   pages: istria-guide, brijuni-islands-boat-tour
+   pages: istria-guide
    shows: Brijuni Islands seen from the boat
 
 brijuni-islands-istria.jpg
@@ -52,6 +60,18 @@ brijuni-islands-istria.jpg
 brijuni-lighthouse.jpg
    pages: brijuni-islands-boat-tour
    shows: Lighthouse near the Brijuni Islands
+
+brijuni-sheltered-bay.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Sheltered bay between the Brijuni Islands
+
+brijuni-turquoise-shallows.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Turquoise shallows of the Brijuni Islands, with the Istrian coast behind
+
+brijuni-wooded-island.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Wooded island of the Brijuni archipelago
 
 bungalow-exterior-pula.jpg
    pages: bungalow-pula
@@ -200,6 +220,30 @@ swimming-stop-boat-trip.jpg
 temple-of-augustus-pula.jpg
    pages: istria-guide
    shows: Temple of Augustus in Pula
+
+veliki-brijun-aerial-islets.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Veliki Brijun from the air, with the islets beyond
+
+veliki-brijun-golf-aerial.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Golf course and bay on Veliki Brijun from above
+
+veliki-brijun-golf-bay.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Golf course and turquoise bay on Veliki Brijun
+
+veliki-brijun-golf-coast.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Veliki Brijun coast and golf course from the air
+
+veliki-brijun-pine-shore.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Pine trees along the shore of Veliki Brijun
+
+veliki-brijun-shore-from-sea.jpg
+   pages: brijuni-islands-boat-tour
+   shows: Shore of Veliki Brijun seen from the sea
 
 venice-doges-palace.jpg
    pages: rovinj-venice-boat-trips

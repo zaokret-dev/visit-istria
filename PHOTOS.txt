@@ -1,4 +1,4 @@
-Photos used on the site (66 files). Put your own photos in assets/img/ with exactly these file names.
+Photos used on the site (74 files). Put your own photos in assets/img/ with exactly these file names.
 Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
 
 apartment-rovinj-old-town.jpg
@@ -100,6 +100,38 @@ cormorants-rocky-coast-istria.jpg
 day-boat-trip-pula.jpg
    pages: boat-tours-pula
    shows: Guests on the day boat tour
+
+diver-at-cave-entrance.jpg
+   pages: scuba-diving-pula
+   shows: Diver at the bright entrance of an underwater cave
+
+diver-at-shipwreck-window.jpg
+   pages: scuba-diving-pula
+   shows: Diver giving the OK sign through a shipwreck window
+
+diver-in-clear-water.jpg
+   pages: scuba-diving-pula
+   shows: Diver hovering above the seabed in clear water
+
+diver-in-sun-rays.jpg
+   pages: scuba-diving-pula
+   shows: Diver descending through rays of sunlight
+
+diver-silhouette-against-sun.jpg
+   pages: scuba-diving-pula
+   shows: Diver silhouetted against the sunlight
+
+diver-swimming-over-reef.jpg
+   pages: scuba-diving-pula
+   shows: Diver swimming over a reef with a buddy
+
+divers-along-underwater-wall.jpg
+   pages: scuba-diving-pula
+   shows: Divers along an underwater wall full of fish
+
+diving-pula-underwater.jpg
+   pages: scuba-diving-pula
+   shows: Scuba diving in Pula
 
 diving-underwater-cave.jpg
    pages: scuba-diving-pula

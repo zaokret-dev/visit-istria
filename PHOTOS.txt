@@ -1,4 +1,4 @@
-Photos used on the site (74 files). Put your own photos in assets/img/ with exactly these file names.
+Photos used on the site (77 files). Put your own photos in assets/img/ with exactly these file names.
 Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
 
 apartment-rovinj-old-town.jpg
@@ -93,10 +93,6 @@ cave-swimming-pula.jpg
    pages: home, services, cave-swimming-tour-pula
    shows: Cave swimming / Cave swimming tour near Pula
 
-cormorants-rocky-coast-istria.jpg
-   pages: dolphin-tour-pula
-   shows: Cormorants on a rock off the Istrian coast
-
 day-boat-trip-pula.jpg
    pages: boat-tours-pula
    shows: Guests on the day boat tour
@@ -137,17 +133,29 @@ diving-underwater-cave.jpg
    pages: scuba-diving-pula
    shows: Diving tour near a cave
 
+dolphin-from-above.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphin swimming in deep blue water, seen from above
+
+dolphin-leaping-out-of-sea.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphin leaping out of the sea
+
+dolphin-pod-swimming.jpg
+   pages: dolphin-tour-pula
+   shows: Pod of dolphins swimming at the surface
+
 dolphin-watching-pula.jpg
    pages: boat-excursions-pula, dolphin-tour-pula
-   shows: Dolphins playing near the boat / Dolphin tour from Pula
+   shows: Dolphins playing near the boat / Three dolphins swimming close to the boat
 
 dolphins-at-sunset-pula.jpg
    pages: home, services, boat-tours-pula, dolphin-tour-pula
    shows: Sunset boat tour with dolphins near Brijuni / Sunset dolphin tour near Brijuni / Evening tour with dolphins / Sunset dolphin tour near the Brijuni Islands
 
 dolphins-near-boat.jpg
-   pages: boat-excursions-pula, dolphin-tour-pula
-   shows: Dolphin watching near Brijuni / Dolphins near the boat
+   pages: boat-excursions-pula
+   shows: Dolphin watching near Brijuni
 
 family-apartment-pula.jpg
    pages: home, services, apartments-pula-fazana
@@ -206,7 +214,7 @@ rent-a-boat-pula.jpg
    shows: Rent a boat / Rent a boat in Pula with skipper / Rent a boat in Pula with a skipper
 
 rocky-coast-waves-istria.jpg
-   pages: boat-tours-pula, dolphin-tour-pula
+   pages: boat-tours-pula
    shows: Waves on the rocky Istrian coast
 
 rovinj-at-dusk.jpg
@@ -252,6 +260,10 @@ swimming-stop-boat-trip.jpg
 temple-of-augustus-pula.jpg
    pages: istria-guide
    shows: Temple of Augustus in Pula
+
+two-dolphins-surfacing.jpg
+   pages: dolphin-tour-pula
+   shows: Two dolphins surfacing side by side
 
 veliki-brijun-aerial-islets.jpg
    pages: brijuni-islands-boat-tour

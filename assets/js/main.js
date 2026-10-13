@@ -143,6 +143,27 @@ window.location.href = 'mailto:' + EMAIL + '?subject=' + encodeURIComponent(L.gu
 });
 }
 (function () {
+var gs = document.querySelectorAll('.gallery.jg');
+if (!gs.length) { return; }
+function fix() {
+Array.prototype.forEach.call(gs, function (g) {
+g.classList.remove('lj', 'lc');
+var im = Array.prototype.slice.call(g.querySelectorAll('img'));
+im.forEach(function (i) { i.classList.remove('lr'); });
+if (!im.length) { return; }
+var top = im[im.length - 1].offsetTop, row = im.filter(function (i) { return i.offsetTop === top; });
+if (row.length === im.length) { return; }
+var used = 0; row.forEach(function (i) { used += i.offsetWidth; });
+var gap = parseFloat(getComputedStyle(g).columnGap) || 0;
+used += gap * (row.length - 1);
+if (used / g.clientWidth >= 0.7) { g.classList.add('lj'); }
+else { g.classList.add('lc'); row.forEach(function (i) { i.classList.add('lr'); }); }
+});
+}
+fix();
+var t; window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(fix, 150); });
+})();
+(function () {
 var T = { en: ['Close', 'Previous photo', 'Next photo'], de: ['Schließen', 'Vorheriges Foto', 'Nächstes Foto'], it: ['Chiudi', 'Foto precedente', 'Foto successiva'], fr: ['Fermer', 'Photo précédente', 'Photo suivante'], hu: ['Bezárás', 'Előző fotó', 'Következő fotó'], cs: ['Zavřít', 'Předchozí fotografie', 'Další fotografie'], pl: ['Zamknij', 'Poprzednie zdjęcie', 'Następne zdjęcie'], hr: ['Zatvori', 'Prethodna fotografija', 'Sljedeća fotografija'] };
 var t = T[(document.documentElement.lang || 'en').slice(0, 2)] || T.en;
 var imgs = Array.prototype.filter.call(document.querySelectorAll('main img, .page-hero img, .gallery img'), function (im) {
@@ -161,7 +182,7 @@ var big = box.querySelector('img'), cap = box.querySelector('figcaption'), cur =
 function show(i) {
 cur = (i + imgs.length) % imgs.length;
 var im = imgs[cur];
-big.src = im.currentSrc || im.src; big.alt = im.alt || '';
+big.src = im.getAttribute('data-full') || im.currentSrc || im.src; big.alt = im.alt || '';
 cap.textContent = im.alt || '';
 box.querySelector('.lb-prev').hidden = box.querySelector('.lb-next').hidden = imgs.length < 2;
 }

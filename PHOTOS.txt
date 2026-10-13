@@ -1,4 +1,4 @@
-Photos used on the site (77 files). Put your own photos in assets/img/ with exactly these file names.
+Photos used on the site (135 files). Put your own photos in assets/img/ with exactly these file names.
 Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
 
 apartment-rovinj-old-town.jpg
@@ -17,9 +17,9 @@ boat-excursion-from-pula.jpg
    pages: about
    shows: Boat excursion from Pula
 
-boat-excursion-pula.jpg
+boat-on-calm-sea.jpg
    pages: boat-excursions-pula
-   shows: Boat excursion in Pula
+   shows: Small boat crossing a calm, glassy sea
 
 boat-tour-around-brijuni.jpg
    pages: services, boat-tours-pula
@@ -93,9 +93,29 @@ cave-swimming-pula.jpg
    pages: home, services, cave-swimming-tour-pula
    shows: Cave swimming / Cave swimming tour near Pula
 
+couple-in-yellow-kayak.jpg
+   pages: kayak-tours-pula
+   shows: Couple paddling a yellow kayak
+
 day-boat-trip-pula.jpg
    pages: boat-tours-pula
    shows: Guests on the day boat tour
+
+diver-above-an-underwater-drop-off.jpg
+   pages: scuba-diving-pula
+   shows: Diver above an underwater drop-off
+
+diver-and-eagle-ray.jpg
+   pages: scuba-diving-pula
+   shows: Diver watching an eagle ray
+
+diver-and-manta-ray.jpg
+   pages: scuba-diving-pula
+   shows: Diver swimming above a manta ray
+
+diver-and-sea-turtle.jpg
+   pages: scuba-diving-pula
+   shows: Diver and a sea turtle resting on a rock
 
 diver-at-cave-entrance.jpg
    pages: scuba-diving-pula
@@ -104,6 +124,34 @@ diver-at-cave-entrance.jpg
 diver-at-shipwreck-window.jpg
    pages: scuba-diving-pula
    shows: Diver giving the OK sign through a shipwreck window
+
+diver-below-the-surface.jpg
+   pages: scuba-diving-pula
+   shows: Diver hovering below the sunlit surface
+
+diver-beside-a-reef-wall.jpg
+   pages: scuba-diving-pula
+   shows: Diver beside a reef wall with a table coral
+
+diver-checking-dive-computer.jpg
+   pages: scuba-diving-pula
+   shows: Diver checking his dive computer
+
+diver-exploring-a-shipwreck.jpg
+   pages: scuba-diving-pula
+   shows: Diver exploring a shipwreck
+
+diver-giving-ok-sign-under-the-boat.jpg
+   pages: scuba-diving-pula
+   shows: Diver giving the OK sign below the boat
+
+diver-gliding-over-a-reef.jpg
+   pages: scuba-diving-pula
+   shows: Diver gliding over a reef
+
+diver-in-cave-light-beams.jpg
+   pages: scuba-diving-pula
+   shows: Diver in beams of light inside an underwater cave
 
 diver-in-clear-water.jpg
    pages: scuba-diving-pula
@@ -121,9 +169,25 @@ diver-swimming-over-reef.jpg
    pages: scuba-diving-pula
    shows: Diver swimming over a reef with a buddy
 
+diver-waving-over-the-seabed.jpg
+   pages: scuba-diving-pula
+   shows: Diver waving over the seabed
+
+diver-with-torch-in-blue-water.jpg
+   pages: scuba-diving-pula
+   shows: Diver with a torch in deep blue water
+
+divers-along-a-rocky-slope.jpg
+   pages: scuba-diving-pula
+   shows: Divers swimming along a rocky slope
+
 divers-along-underwater-wall.jpg
    pages: scuba-diving-pula
    shows: Divers along an underwater wall full of fish
+
+divers-in-a-group-under-the-boat.jpg
+   pages: scuba-diving-pula
+   shows: Group of divers under the boat
 
 diving-pula-underwater.jpg
    pages: scuba-diving-pula
@@ -133,29 +197,89 @@ diving-underwater-cave.jpg
    pages: scuba-diving-pula
    shows: Diving tour near a cave
 
+dolphin-and-calf-underwater.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphin and calf swimming underwater
+
 dolphin-from-above.jpg
    pages: dolphin-tour-pula
    shows: Dolphin swimming in deep blue water, seen from above
+
+dolphin-gliding-at-the-surface.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphin gliding along the surface
+
+dolphin-jumping-from-blue-sea.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphin jumping out of the blue sea
+
+dolphin-leaping-in-waves.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphin leaping through the waves
 
 dolphin-leaping-out-of-sea.jpg
    pages: dolphin-tour-pula
    shows: Dolphin leaping out of the sea
 
+dolphin-mother-and-calf.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphin mother and calf surfacing together
+
 dolphin-pod-swimming.jpg
    pages: dolphin-tour-pula
    shows: Pod of dolphins swimming at the surface
 
+dolphin-splashing-at-the-surface.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphin splashing at the surface
+
 dolphin-watching-pula.jpg
-   pages: boat-excursions-pula, dolphin-tour-pula
-   shows: Dolphins playing near the boat / Three dolphins swimming close to the boat
+   pages: dolphin-tour-pula
+   shows: Three dolphins swimming close to the boat
 
 dolphins-at-sunset-pula.jpg
    pages: home, services, boat-tours-pula, dolphin-tour-pula
    shows: Sunset boat tour with dolphins near Brijuni / Sunset dolphin tour near Brijuni / Evening tour with dolphins / Sunset dolphin tour near the Brijuni Islands
 
-dolphins-near-boat.jpg
+dolphins-below-the-surface.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphins swimming just below the surface
+
+dolphins-breathing-at-the-surface.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphins coming up to breathe
+
+dolphins-close-up-underwater.jpg
+   pages: dolphin-tour-pula
+   shows: Close-up of dolphins swimming side by side
+
+dolphins-in-deep-blue-water.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphins in deep blue water
+
+dolphins-leaping-in-the-distance.jpg
+   pages: dolphin-tour-pula
+   shows: Group of dolphins leaping in the distance
+
+dolphins-surfacing-in-sunlight.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphins surfacing in the sunlight
+
+dolphins-swimming-in-open-sea.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphins swimming in the open sea
+
+dolphins-swimming-over-seabed.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphins swimming over the seabed
+
+dolphins-swimming-through-waves.jpg
+   pages: dolphin-tour-pula
+   shows: Dolphins swimming fast through the waves
+
+excursion-boat-with-guests.jpg
    pages: boat-excursions-pula
-   shows: Dolphin watching near Brijuni
+   shows: Excursion boat with guests on deck
 
 family-apartment-pula.jpg
    pages: home, services, apartments-pula-fazana
@@ -165,6 +289,26 @@ fazana-harbour-sunset.jpg
    pages: istria-guide
    shows: Fažana harbour at sunset
 
+fishing-boat-with-seagulls.jpg
+   pages: boat-excursions-pula
+   shows: Fishing boat followed by seagulls
+
+fishing-boats-moored-in-harbour.jpg
+   pages: boat-excursions-pula
+   shows: Fishing boats moored side by side in the harbour
+
+four-dolphins-underwater.jpg
+   pages: dolphin-tour-pula
+   shows: Four dolphins swimming together underwater
+
+group-kayak-tour.jpg
+   pages: kayak-tours-pula
+   shows: Group kayak tour in tandem kayaks
+
+group-of-dolphins-underwater.jpg
+   pages: dolphin-tour-pula
+   shows: Group of dolphins swimming underwater
+
 holiday-house-fazana.jpg
    pages: apartments-pula-fazana
    shows: Holiday house in Fažana
@@ -173,13 +317,45 @@ holiday-houses-istria.jpg
    pages: about
    shows: Colourful houses in an Istrian town
 
+inflatable-kayak-on-the-sea.jpg
+   pages: kayak-tours-pula
+   shows: Paddling an inflatable kayak on the sea
+
 istrian-coast-from-above.jpg
    pages: istria-guide
    shows: Rocky Istrian coast and clear sea
 
+kayak-pula-summer.jpg
+   pages: kayak-tours-pula
+   shows: 
+
 kayak-tour-coast.jpg
    pages: kayak-tours-pula
-   shows: Kayak tour in Pula
+   shows: 
+
+kayaker-in-evening-light.jpg
+   pages: kayak-tours-pula
+   shows: Kayaker paddling in the evening light
+
+kayaker-in-green-kayak.jpg
+   pages: kayak-tours-pula
+   shows: Paddler in a green sea kayak
+
+kayaker-in-yellow-kayak.jpg
+   pages: kayak-tours-pula
+   shows: Paddler in a yellow sea kayak
+
+kayaker-on-open-sea.jpg
+   pages: kayak-tours-pula
+   shows: Lone kayaker out on the open sea
+
+kayaking-through-a-wave.jpg
+   pages: kayak-tours-pula
+   shows: Kayaking through a splashing wave
+
+kayaks-from-above.jpg
+   pages: kayak-tours-pula
+   shows: Four kayaks on the sea seen from above
 
 luxury-yacht-charter-pula.jpg
    pages: home, services, yacht-rental-pula
@@ -192,6 +368,14 @@ mobile-home-bungalow.jpg
 motor-yacht-brijuni.jpg
    pages: yacht-rental-pula
    shows: Luxury motor yacht near the Brijuni Islands
+
+pod-of-dolphins-from-above.jpg
+   pages: dolphin-tour-pula
+   shows: Pod of dolphins seen from above
+
+pod-of-dolphins-in-green-sea.jpg
+   pages: dolphin-tour-pula
+   shows: Pod of dolphins in green sea water
 
 private-yacht-charter.jpg
    pages: yacht-rental-pula
@@ -208,6 +392,10 @@ pula-arena.jpg
 pula-harbour-boats.jpg
    pages: about, boat-tours-pula
    shows: Boat excursion leaving the Riva in Pula / Boat tour from Pula
+
+red-kayaks-in-turquoise-water.jpg
+   pages: kayak-tours-pula
+   shows: Two red kayaks in clear turquoise water
 
 rent-a-boat-pula.jpg
    pages: home, services, rent-a-boat-pula
@@ -249,6 +437,10 @@ sea-kayak-pula.jpg
    pages: home, services, kayak-tours-pula
    shows: Kayak / Kayak tour in Pula / Kayak tour on the coast near Pula
 
+speedboat-anchored-in-turquoise-bay.jpg
+   pages: boat-excursions-pula
+   shows: Motorboat anchored in a turquoise bay
+
 speedboat-rental-pula.jpg
    pages: rent-a-boat-pula
    shows: Luxury boat rental in Pula with skipper
@@ -261,9 +453,45 @@ temple-of-augustus-pula.jpg
    pages: istria-guide
    shows: Temple of Augustus in Pula
 
+three-dolphins-under-the-surface.jpg
+   pages: dolphin-tour-pula
+   shows: Three dolphins under the surface
+
+two-dolphin-fins-above-water.jpg
+   pages: dolphin-tour-pula
+   shows: Two dolphin fins above the water
+
+two-dolphins-in-calm-sea.jpg
+   pages: dolphin-tour-pula
+   shows: Two dolphins surfacing in a calm sea
+
+two-dolphins-in-turquoise-water.jpg
+   pages: dolphin-tour-pula
+   shows: Two dolphins in turquoise water
+
+two-dolphins-riding-the-bow-wave.jpg
+   pages: dolphin-tour-pula
+   shows: Two dolphins riding the boat's bow wave
+
 two-dolphins-surfacing.jpg
    pages: dolphin-tour-pula
    shows: Two dolphins surfacing side by side
+
+two-kayaks-on-calm-water.jpg
+   pages: kayak-tours-pula
+   shows: Two kayaks on calm water
+
+two-kayaks-on-open-water.jpg
+   pages: kayak-tours-pula
+   shows: Two kayaks on wide open water
+
+two-people-in-a-tandem-kayak.jpg
+   pages: kayak-tours-pula
+   shows: Two people paddling a tandem kayak
+
+two-sea-kayaks-from-above.jpg
+   pages: kayak-tours-pula
+   shows: Two sea kayaks seen from above
 
 veliki-brijun-aerial-islets.jpg
    pages: brijuni-islands-boat-tour
@@ -304,6 +532,10 @@ venice-santa-maria-della-salute.jpg
 venice-st-marks-basilica.jpg
    pages: home, rovinj-venice-boat-trips
    shows: St. Mark's Basilica in Venice
+
+white-passenger-boat-at-sea.jpg
+   pages: boat-excursions-pula
+   shows: White passenger boat out at sea
 
 yacht-in-marina.jpg
    pages: yacht-rental-pula

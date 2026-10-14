@@ -1,13 +1,21 @@
-Photos used on the site (135 files). Put your own photos in assets/img/ with exactly these file names.
+Photos used on the site (182 files). Put your own photos in assets/img/ with exactly these file names.
 Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
 
 apartment-rovinj-old-town.jpg
    pages: apartments-pula-fazana
    shows: Apartment entrance in Rovinj old town
 
+arch-of-the-sergii-pula.jpg
+   pages: istria-guide
+   shows: Arch of the Sergii in Pula's old town
+
 blue-cave-boat-trip.jpg
    pages: cave-swimming-tour-pula
    shows: Blue cave boat excursion from Pula
+
+blue-door-and-shutters.jpg
+   pages: istria-guide
+   shows: Blue door and blue shutters on a stone house
 
 boat-excursion-brijuni.jpg
    pages: services, boat-excursions-pula
@@ -33,6 +41,10 @@ boats-anchored-bay-istria.jpg
    pages: boat-tours-pula
    shows: Boats at anchor in an Istrian bay
 
+boats-between-wooded-islands.jpg
+   pages: istria-guide
+   shows: Boats leaving white wakes between wooded islands
+
 brijuni-archipelago-from-above.jpg
    pages: brijuni-islands-boat-tour
    shows: Brijuni archipelago from high above
@@ -48,10 +60,6 @@ brijuni-golf-course.jpg
 brijuni-islands-channel-aerial.jpg
    pages: brijuni-islands-boat-tour
    shows: Brijuni Islands from above, with a clear channel between two islands
-
-brijuni-islands-from-boat.jpg
-   pages: istria-guide
-   shows: Brijuni Islands seen from the boat
 
 brijuni-islands-istria.jpg
    pages: istria-guide (social-media preview only)
@@ -92,6 +100,18 @@ bungalow-terrace-pula.jpg
 cave-swimming-pula.jpg
    pages: home, services, cave-swimming-tour-pula
    shows: Cave swimming / Cave swimming tour near Pula
+
+clear-water-rocky-coast.jpg
+   pages: istria-guide
+   shows: Crystal-clear water along a flat rocky coast
+
+cobbled-street-with-visitors.jpg
+   pages: istria-guide
+   shows: Visitors walking along a shiny cobbled street
+
+colourful-lane-with-bench.jpg
+   pages: istria-guide
+   shows: Colourful lane with a bench and flower pots
 
 couple-in-yellow-kayak.jpg
    pages: kayak-tours-pula
@@ -297,6 +317,10 @@ fishing-boats-moored-in-harbour.jpg
    pages: boat-excursions-pula
    shows: Fishing boats moored side by side in the harbour
 
+fishing-boats-small-istrian-harbour.jpg
+   pages: istria-guide
+   shows: Fishing boats moored in a small Istrian harbour
+
 four-dolphins-underwater.jpg
    pages: dolphin-tour-pula
    shows: Four dolphins swimming together underwater
@@ -308,6 +332,10 @@ group-kayak-tour.jpg
 group-of-dolphins-underwater.jpg
    pages: dolphin-tour-pula
    shows: Group of dolphins swimming underwater
+
+hilltop-town-above-harbour.jpg
+   pages: istria-guide
+   shows: Hilltop old town above a harbour full of boats
 
 holiday-house-fazana.jpg
    pages: apartments-pula-fazana
@@ -321,9 +349,9 @@ inflatable-kayak-on-the-sea.jpg
    pages: kayak-tours-pula
    shows: Paddling an inflatable kayak on the sea
 
-istrian-coast-from-above.jpg
+istrian-coast-from-the-air.jpg
    pages: istria-guide
-   shows: Rocky Istrian coast and clear sea
+   shows: Green Istrian coastline and calm sea from the air
 
 kayak-pula-summer.jpg
    pages: kayak-tours-pula
@@ -357,6 +385,10 @@ kayaks-from-above.jpg
    pages: kayak-tours-pula
    shows: Four kayaks on the sea seen from above
 
+limestone-cliffs-and-sea-cave.jpg
+   pages: istria-guide
+   shows: Limestone cliffs and a sea cave with clear turquoise water
+
 luxury-yacht-charter-pula.jpg
    pages: home, services, yacht-rental-pula
    shows: Yacht charter / Luxury yacht rental in Pula
@@ -369,6 +401,18 @@ motor-yacht-brijuni.jpg
    pages: yacht-rental-pula
    shows: Luxury motor yacht near the Brijuni Islands
 
+narrow-alley-with-bicycle.jpg
+   pages: istria-guide
+   shows: Narrow stone alley with a bicycle and blue shutters
+
+old-town-street-wine-bar.jpg
+   pages: istria-guide
+   shows: Old town street with a wine bar and barrel tables
+
+pastel-houses-blue-shutters.jpg
+   pages: istria-guide
+   shows: Pastel houses with blue shutters in a quiet lane
+
 pod-of-dolphins-from-above.jpg
    pages: dolphin-tour-pula
    shows: Pod of dolphins seen from above
@@ -377,21 +421,77 @@ pod-of-dolphins-in-green-sea.jpg
    pages: dolphin-tour-pula
    shows: Pod of dolphins in green sea water
 
+porec-at-dusk.jpg
+   pages: istria-guide
+   shows: Poreč old town lit up at dusk
+
 private-yacht-charter.jpg
    pages: yacht-rental-pula
    shows: Private yacht charter leaving Pula harbour
+
+pula-arena-above-the-trees.jpg
+   pages: istria-guide
+   shows: The Pula Arena rising above green trees
+
+pula-arena-aerial-top-down.jpg
+   pages: istria-guide
+   shows: The Pula Arena from directly above
+
+pula-arena-and-church-tower.jpg
+   pages: istria-guide
+   shows: Pula Arena and the bell tower of St Anthony's church
+
+pula-arena-arches-and-lavender.jpg
+   pages: istria-guide
+   shows: Pula Arena arches seen through lavender
+
+pula-arena-arches-golden-light.jpg
+   pages: istria-guide
+   shows: Arches of the Pula Arena in the golden evening light
+
+pula-arena-behind-cypresses.jpg
+   pages: istria-guide
+   shows: Pula Arena behind tall cypress trees
+
+pula-arena-blue-sky.jpg
+   pages: istria-guide
+   shows: The outer wall of the Pula Arena against a clear blue sky
+
+pula-arena-exterior-panorama.jpg
+   pages: istria-guide
+   shows: The Pula Arena seen from the street
 
 pula-arena-from-above.jpg
    pages: istria-guide
    shows: Pula Arena from above
 
-pula-arena.jpg
+pula-arena-interior-seating.jpg
    pages: istria-guide
-   shows: The Roman amphitheatre in Pula
+   shows: Inside the Pula Arena: the stone seating and the arena floor
+
+pula-arena-wall-and-bell-tower.jpg
+   pages: istria-guide
+   shows: Pula Arena wall with a bell tower framed in an arch
+
+pula-arena-wall-and-clouds.jpg
+   pages: istria-guide
+   shows: Pula Arena wall and summer clouds
+
+pula-arena-walls-blue-sky.jpg
+   pages: istria-guide
+   shows: Walls of the Pula Arena against a blue sky
+
+pula-forum-square-cafes.jpg
+   pages: istria-guide
+   shows: Café terraces on the Forum square in Pula
 
 pula-harbour-boats.jpg
    pages: about, boat-tours-pula
    shows: Boat excursion leaving the Riva in Pula / Boat tour from Pula
+
+quiet-old-town-street.jpg
+   pages: istria-guide
+   shows: Quiet old town street with stone paving
 
 red-kayaks-in-turquoise-water.jpg
    pages: kayak-tours-pula
@@ -401,13 +501,37 @@ rent-a-boat-pula.jpg
    pages: home, services, rent-a-boat-pula
    shows: Rent a boat / Rent a boat in Pula with skipper / Rent a boat in Pula with a skipper
 
+rocky-coast-cove-evening.jpg
+   pages: istria-guide
+   shows: Rocky coast and a quiet cove in the evening light
+
 rocky-coast-waves-istria.jpg
    pages: boat-tours-pula
    shows: Waves on the rocky Istrian coast
 
+rocky-shore-with-pines.jpg
+   pages: istria-guide
+   shows: Rocky shore with pine trees and small waves
+
 rovinj-at-dusk.jpg
    pages: istria-guide
    shows: Rovinj at dusk
+
+rovinj-from-the-air-golden-hour.jpg
+   pages: istria-guide
+   shows: Rovinj from the air in the golden evening light
+
+rovinj-harbour-from-above.jpg
+   pages: istria-guide
+   shows: Rovinj harbour and town from above
+
+rovinj-houses-on-the-water.jpg
+   pages: istria-guide
+   shows: Rovinj houses rising straight out of the water
+
+rovinj-old-town-aerial.jpg
+   pages: istria-guide
+   shows: Rovinj old town and St Euphemia's bell tower from the air
 
 rovinj-old-town.jpg
    pages: home, services, rovinj-venice-boat-trips
@@ -417,6 +541,14 @@ rovinj-panorama.jpg
    pages: rovinj-venice-boat-trips
    shows: Rovinj seen from the sea
 
+rovinj-peninsula-aerial.jpg
+   pages: istria-guide
+   shows: The Rovinj peninsula and its harbour from the air
+
+rovinj-seafront-summer.jpg
+   pages: istria-guide
+   shows: Rovinj seafront on a sunny summer day
+
 rovinj-skyline.jpg
    pages: rovinj-venice-boat-trips
    shows: Rovinj and the bell tower of St. Euphemia
@@ -425,9 +557,25 @@ rovinj-sunset.jpg
    pages: rovinj-venice-boat-trips
    shows: Rovinj old town at sunset
 
+rovinj-under-cloudy-sky.jpg
+   pages: istria-guide
+   shows: Rovinj under a cloudy sky
+
+rovinj-waterfront-houses.jpg
+   pages: istria-guide
+   shows: Old houses of Rovinj along the sea
+
+rovinj-with-wooden-boat.jpg
+   pages: istria-guide
+   shows: Rovinj seen from the sea, with a wooden boat in front
+
 scuba-diving-pula.jpg
    pages: home, services, scuba-diving-pula
    shows: Scuba diving / Scuba diving in Pula
+
+sea-at-dusk-istria.jpg
+   pages: istria-guide
+   shows: The sea at dusk under an orange sky
 
 sea-cave-boat-entrance.jpg
    pages: cave-swimming-tour-pula
@@ -437,6 +585,10 @@ sea-kayak-pula.jpg
    pages: home, services, kayak-tours-pula
    shows: Kayak / Kayak tour in Pula / Kayak tour on the coast near Pula
 
+small-boat-by-wooded-islet.jpg
+   pages: istria-guide
+   shows: Small motorboat passing a wooded islet
+
 speedboat-anchored-in-turquoise-bay.jpg
    pages: boat-excursions-pula
    shows: Motorboat anchored in a turquoise bay
@@ -445,13 +597,33 @@ speedboat-rental-pula.jpg
    pages: rent-a-boat-pula
    shows: Luxury boat rental in Pula with skipper
 
+stone-stairway-old-town.jpg
+   pages: istria-guide
+   shows: Steep stone stairway between old houses
+
+street-down-to-the-marina.jpg
+   pages: istria-guide
+   shows: Narrow street leading down to sailboats in the marina
+
+sunset-over-the-sea-istria.jpg
+   pages: istria-guide
+   shows: Sunset over the sea with a fisherman on the shore
+
 swimming-stop-boat-trip.jpg
    pages: home, boat-tours-pula
    shows: Swimming stop at St. Jerolim on the day boat tour / Day tour with swimming
 
+temple-of-augustus-front.jpg
+   pages: istria-guide
+   shows: Columns and steps of the Temple of Augustus in Pula
+
 temple-of-augustus-pula.jpg
    pages: istria-guide
    shows: Temple of Augustus in Pula
+
+temple-of-augustus-side-view.jpg
+   pages: istria-guide
+   shows: Temple of Augustus in Pula under a deep blue sky
 
 three-dolphins-under-the-surface.jpg
    pages: dolphin-tour-pula
@@ -533,6 +705,10 @@ venice-st-marks-basilica.jpg
    pages: home, rovinj-venice-boat-trips
    shows: St. Mark's Basilica in Venice
 
+village-square-church-inland-istria.jpg
+   pages: istria-guide
+   shows: Church and old stone houses on a village square in inland Istria
+
 white-passenger-boat-at-sea.jpg
    pages: boat-excursions-pula
    shows: White passenger boat out at sea
@@ -540,3 +716,15 @@ white-passenger-boat-at-sea.jpg
 yacht-in-marina.jpg
    pages: yacht-rental-pula
    shows: Yacht in Pula marina
+
+yellow-door-and-shutters-courtyard.jpg
+   pages: istria-guide
+   shows: Stone house with a yellow door and shutters in a green courtyard
+
+yellow-house-green-shutters.jpg
+   pages: istria-guide
+   shows: Yellow house with green shutters and an iron staircase
+
+yellow-house-wine-bar-corner.jpg
+   pages: istria-guide
+   shows: Yellow house and a wine bar on an old town corner

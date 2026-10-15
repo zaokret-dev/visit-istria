@@ -1,63 +1,79 @@
-Photos used on the site (182 files). Put your own photos in assets/img/ with exactly these file names.
+Photos used on the site (196 files). Put your own photos in assets/img/ with exactly these file names.
 Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
 
-apartment-rovinj-old-town.jpg
+apartment-rovinj-old-town.webp
    pages: apartments-pula-fazana
    shows: Apartment entrance in Rovinj old town
 
-arch-of-the-sergii-pula.jpg
+arch-of-the-sergii-pula.webp
    pages: istria-guide
    shows: Arch of the Sergii in Pula's old town
 
-blue-cave-boat-trip.jpg
+blue-cave-boat-trip.webp
    pages: cave-swimming-tour-pula
    shows: Blue cave boat excursion from Pula
 
-blue-door-and-shutters.jpg
+blue-door-and-shutters.webp
    pages: istria-guide
    shows: Blue door and blue shutters on a stone house
 
 boat-excursion-brijuni.jpg
+   pages: boat-excursions-pula (social-media preview only)
+   shows: Boat tour from Pula to Brijuni National Park
+
+boat-excursion-brijuni.webp
    pages: services, boat-excursions-pula
    shows: Boat tour from Pula to Brijuni / Boat tour from Pula to Brijuni National Park
 
-boat-excursion-from-pula.jpg
+boat-excursion-from-pula.webp
    pages: about
    shows: Boat excursion from Pula
 
-boat-on-calm-sea.jpg
+boat-on-calm-sea.webp
    pages: boat-excursions-pula
    shows: Small boat crossing a calm, glassy sea
 
 boat-tour-around-brijuni.jpg
+   pages: boat-tours-pula (social-media preview only)
+   shows: Boat tour around the Brijuni Islands from Pula
+
+boat-tour-around-brijuni.webp
    pages: services, boat-tours-pula
    shows: Boat tour around the Brijuni Islands / Boat tour around the Brijuni Islands from Pula
 
 boat-trip-pula.jpg
+   pages: home (social-media preview only)
+   shows: 
+
+boat-trip-pula.webp
    pages: home
    shows: Boat excursion from Pula along the Brijuni Islands coastline
 
-boats-anchored-bay-istria.jpg
+boats-anchored-bay-istria.webp
    pages: boat-tours-pula
    shows: Boats at anchor in an Istrian bay
 
-boats-between-wooded-islands.jpg
+boats-between-wooded-islands.webp
    pages: istria-guide
    shows: Boats leaving white wakes between wooded islands
 
-brijuni-archipelago-from-above.jpg
+brijuni-archipelago-from-above.webp
    pages: brijuni-islands-boat-tour
    shows: Brijuni archipelago from high above
 
-brijuni-clear-sea-coast.jpg
+brijuni-clear-sea-coast.webp
    pages: brijuni-islands-boat-tour
    shows: Clear sea along a Brijuni island coast
 
 brijuni-golf-course.jpg
+   pages: brijuni-islands-boat-tour (social-media preview only)
+   shows: Boat excursion around the Brijuni Islands National Park
+
+brijuni-golf-course.webp
    pages: home, services, brijuni-islands-boat-tour
    shows: Golf course on Veliki Brijun
 
-brijuni-islands-channel-aerial.jpg
+brijuni-islands-channel-aerial.webp
    pages: brijuni-islands-boat-tour
    shows: Brijuni Islands from above, with a clear channel between two islands
 
@@ -65,666 +81,706 @@ brijuni-islands-istria.jpg
    pages: istria-guide (social-media preview only)
    shows: Boat tour from Pula to the Brijuni Islands
 
-brijuni-lighthouse.jpg
+brijuni-lighthouse.webp
    pages: brijuni-islands-boat-tour
    shows: Lighthouse near the Brijuni Islands
 
-brijuni-sheltered-bay.jpg
+brijuni-sheltered-bay.webp
    pages: brijuni-islands-boat-tour
    shows: Sheltered bay between the Brijuni Islands
 
-brijuni-turquoise-shallows.jpg
+brijuni-turquoise-shallows.webp
    pages: brijuni-islands-boat-tour
    shows: Turquoise shallows of the Brijuni Islands, with the Istrian coast behind
 
-brijuni-wooded-island.jpg
+brijuni-wooded-island.webp
    pages: brijuni-islands-boat-tour
    shows: Wooded island of the Brijuni archipelago
 
-bungalow-exterior-pula.jpg
+bungalow-exterior-pula.webp
    pages: bungalow-pula
    shows: Bungalow in Pula
 
-bungalow-garden-pula.jpg
+bungalow-garden-pula.webp
    pages: bungalow-pula
    shows: Bungalow garden in Pula
 
-bungalow-porch.jpg
+bungalow-porch.webp
    pages: bungalow-pula
    shows: Bungalow porch with a covered terrace
 
-bungalow-terrace-pula.jpg
+bungalow-terrace-pula.webp
    pages: bungalow-pula
    shows: Cosy bungalow terrace
 
 cave-swimming-pula.jpg
+   pages: cave-swimming-tour-pula (social-media preview only)
+   shows: Cave swimming tour near Pula
+
+cave-swimming-pula.webp
    pages: home, services, cave-swimming-tour-pula
    shows: Cave swimming / Cave swimming tour near Pula
 
-clear-water-rocky-coast.jpg
+clear-water-rocky-coast.webp
    pages: istria-guide
    shows: Crystal-clear water along a flat rocky coast
 
-cobbled-street-with-visitors.jpg
+cobbled-street-with-visitors.webp
    pages: istria-guide
    shows: Visitors walking along a shiny cobbled street
 
-colourful-lane-with-bench.jpg
+colourful-lane-with-bench.webp
    pages: istria-guide
    shows: Colourful lane with a bench and flower pots
 
-couple-in-yellow-kayak.jpg
+couple-in-yellow-kayak.webp
    pages: kayak-tours-pula
    shows: Couple paddling a yellow kayak
 
-day-boat-trip-pula.jpg
+day-boat-trip-pula.webp
    pages: boat-tours-pula
    shows: Guests on the day boat tour
 
-diver-above-an-underwater-drop-off.jpg
+diver-above-an-underwater-drop-off.webp
    pages: scuba-diving-pula
    shows: Diver above an underwater drop-off
 
-diver-and-eagle-ray.jpg
+diver-and-eagle-ray.webp
    pages: scuba-diving-pula
    shows: Diver watching an eagle ray
 
-diver-and-manta-ray.jpg
+diver-and-manta-ray.webp
    pages: scuba-diving-pula
    shows: Diver swimming above a manta ray
 
-diver-and-sea-turtle.jpg
+diver-and-sea-turtle.webp
    pages: scuba-diving-pula
    shows: Diver and a sea turtle resting on a rock
 
-diver-at-cave-entrance.jpg
+diver-at-cave-entrance.webp
    pages: scuba-diving-pula
    shows: Diver at the bright entrance of an underwater cave
 
-diver-at-shipwreck-window.jpg
+diver-at-shipwreck-window.webp
    pages: scuba-diving-pula
    shows: Diver giving the OK sign through a shipwreck window
 
-diver-below-the-surface.jpg
+diver-below-the-surface.webp
    pages: scuba-diving-pula
    shows: Diver hovering below the sunlit surface
 
-diver-beside-a-reef-wall.jpg
+diver-beside-a-reef-wall.webp
    pages: scuba-diving-pula
    shows: Diver beside a reef wall with a table coral
 
-diver-checking-dive-computer.jpg
+diver-checking-dive-computer.webp
    pages: scuba-diving-pula
    shows: Diver checking his dive computer
 
-diver-exploring-a-shipwreck.jpg
+diver-exploring-a-shipwreck.webp
    pages: scuba-diving-pula
    shows: Diver exploring a shipwreck
 
-diver-giving-ok-sign-under-the-boat.jpg
+diver-giving-ok-sign-under-the-boat.webp
    pages: scuba-diving-pula
    shows: Diver giving the OK sign below the boat
 
-diver-gliding-over-a-reef.jpg
+diver-gliding-over-a-reef.webp
    pages: scuba-diving-pula
    shows: Diver gliding over a reef
 
-diver-in-cave-light-beams.jpg
+diver-in-cave-light-beams.webp
    pages: scuba-diving-pula
    shows: Diver in beams of light inside an underwater cave
 
-diver-in-clear-water.jpg
+diver-in-clear-water.webp
    pages: scuba-diving-pula
    shows: Diver hovering above the seabed in clear water
 
-diver-in-sun-rays.jpg
+diver-in-sun-rays.webp
    pages: scuba-diving-pula
    shows: Diver descending through rays of sunlight
 
-diver-silhouette-against-sun.jpg
+diver-silhouette-against-sun.webp
    pages: scuba-diving-pula
    shows: Diver silhouetted against the sunlight
 
-diver-swimming-over-reef.jpg
+diver-swimming-over-reef.webp
    pages: scuba-diving-pula
    shows: Diver swimming over a reef with a buddy
 
-diver-waving-over-the-seabed.jpg
+diver-waving-over-the-seabed.webp
    pages: scuba-diving-pula
    shows: Diver waving over the seabed
 
-diver-with-torch-in-blue-water.jpg
+diver-with-torch-in-blue-water.webp
    pages: scuba-diving-pula
    shows: Diver with a torch in deep blue water
 
-divers-along-a-rocky-slope.jpg
+divers-along-a-rocky-slope.webp
    pages: scuba-diving-pula
    shows: Divers swimming along a rocky slope
 
-divers-along-underwater-wall.jpg
+divers-along-underwater-wall.webp
    pages: scuba-diving-pula
    shows: Divers along an underwater wall full of fish
 
-divers-in-a-group-under-the-boat.jpg
+divers-in-a-group-under-the-boat.webp
    pages: scuba-diving-pula
    shows: Group of divers under the boat
 
-diving-pula-underwater.jpg
+diving-pula-underwater.webp
    pages: scuba-diving-pula
    shows: Scuba diving in Pula
 
-diving-underwater-cave.jpg
+diving-underwater-cave.webp
    pages: scuba-diving-pula
    shows: Diving tour near a cave
 
-dolphin-and-calf-underwater.jpg
+dolphin-and-calf-underwater.webp
    pages: dolphin-tour-pula
    shows: Dolphin and calf swimming underwater
 
-dolphin-from-above.jpg
+dolphin-from-above.webp
    pages: dolphin-tour-pula
    shows: Dolphin swimming in deep blue water, seen from above
 
-dolphin-gliding-at-the-surface.jpg
+dolphin-gliding-at-the-surface.webp
    pages: dolphin-tour-pula
    shows: Dolphin gliding along the surface
 
-dolphin-jumping-from-blue-sea.jpg
+dolphin-jumping-from-blue-sea.webp
    pages: dolphin-tour-pula
    shows: Dolphin jumping out of the blue sea
 
-dolphin-leaping-in-waves.jpg
+dolphin-leaping-in-waves.webp
    pages: dolphin-tour-pula
    shows: Dolphin leaping through the waves
 
-dolphin-leaping-out-of-sea.jpg
+dolphin-leaping-out-of-sea.webp
    pages: dolphin-tour-pula
    shows: Dolphin leaping out of the sea
 
-dolphin-mother-and-calf.jpg
+dolphin-mother-and-calf.webp
    pages: dolphin-tour-pula
    shows: Dolphin mother and calf surfacing together
 
-dolphin-pod-swimming.jpg
+dolphin-pod-swimming.webp
    pages: dolphin-tour-pula
    shows: Pod of dolphins swimming at the surface
 
-dolphin-splashing-at-the-surface.jpg
+dolphin-splashing-at-the-surface.webp
    pages: dolphin-tour-pula
    shows: Dolphin splashing at the surface
 
-dolphin-watching-pula.jpg
+dolphin-watching-pula.webp
    pages: dolphin-tour-pula
    shows: Three dolphins swimming close to the boat
 
 dolphins-at-sunset-pula.jpg
+   pages: dolphin-tour-pula (social-media preview only)
+   shows: Sunset dolphin tour near the Brijuni Islands
+
+dolphins-at-sunset-pula.webp
    pages: home, services, boat-tours-pula, dolphin-tour-pula
    shows: Sunset boat tour with dolphins near Brijuni / Sunset dolphin tour near Brijuni / Evening tour with dolphins / Sunset dolphin tour near the Brijuni Islands
 
-dolphins-below-the-surface.jpg
+dolphins-below-the-surface.webp
    pages: dolphin-tour-pula
    shows: Dolphins swimming just below the surface
 
-dolphins-breathing-at-the-surface.jpg
+dolphins-breathing-at-the-surface.webp
    pages: dolphin-tour-pula
    shows: Dolphins coming up to breathe
 
-dolphins-close-up-underwater.jpg
+dolphins-close-up-underwater.webp
    pages: dolphin-tour-pula
    shows: Close-up of dolphins swimming side by side
 
-dolphins-in-deep-blue-water.jpg
+dolphins-in-deep-blue-water.webp
    pages: dolphin-tour-pula
    shows: Dolphins in deep blue water
 
-dolphins-leaping-in-the-distance.jpg
+dolphins-leaping-in-the-distance.webp
    pages: dolphin-tour-pula
    shows: Group of dolphins leaping in the distance
 
-dolphins-surfacing-in-sunlight.jpg
+dolphins-surfacing-in-sunlight.webp
    pages: dolphin-tour-pula
    shows: Dolphins surfacing in the sunlight
 
-dolphins-swimming-in-open-sea.jpg
+dolphins-swimming-in-open-sea.webp
    pages: dolphin-tour-pula
    shows: Dolphins swimming in the open sea
 
-dolphins-swimming-over-seabed.jpg
+dolphins-swimming-over-seabed.webp
    pages: dolphin-tour-pula
    shows: Dolphins swimming over the seabed
 
-dolphins-swimming-through-waves.jpg
+dolphins-swimming-through-waves.webp
    pages: dolphin-tour-pula
    shows: Dolphins swimming fast through the waves
 
-excursion-boat-with-guests.jpg
+excursion-boat-with-guests.webp
    pages: boat-excursions-pula
    shows: Excursion boat with guests on deck
 
 family-apartment-pula.jpg
+   pages: apartments-pula-fazana (social-media preview only)
+   shows: Family apartment in Pula
+
+family-apartment-pula.webp
    pages: home, services, apartments-pula-fazana
    shows: Apartments / Family apartment in Pula
 
-fazana-harbour-sunset.jpg
+fazana-harbour-sunset.webp
    pages: istria-guide
    shows: Fažana harbour at sunset
 
-fishing-boat-with-seagulls.jpg
+fishing-boat-with-seagulls.webp
    pages: boat-excursions-pula
    shows: Fishing boat followed by seagulls
 
-fishing-boats-moored-in-harbour.jpg
+fishing-boats-moored-in-harbour.webp
    pages: boat-excursions-pula
    shows: Fishing boats moored side by side in the harbour
 
-fishing-boats-small-istrian-harbour.jpg
+fishing-boats-small-istrian-harbour.webp
    pages: istria-guide
    shows: Fishing boats moored in a small Istrian harbour
 
-four-dolphins-underwater.jpg
+four-dolphins-underwater.webp
    pages: dolphin-tour-pula
    shows: Four dolphins swimming together underwater
 
-group-kayak-tour.jpg
+group-kayak-tour.webp
    pages: kayak-tours-pula
    shows: Group kayak tour in tandem kayaks
 
-group-of-dolphins-underwater.jpg
+group-of-dolphins-underwater.webp
    pages: dolphin-tour-pula
    shows: Group of dolphins swimming underwater
 
-hilltop-town-above-harbour.jpg
+hilltop-town-above-harbour.webp
    pages: istria-guide
    shows: Hilltop old town above a harbour full of boats
 
-holiday-house-fazana.jpg
+holiday-house-fazana.webp
    pages: apartments-pula-fazana
    shows: Holiday house in Fažana
 
-holiday-houses-istria.jpg
+holiday-houses-istria.webp
    pages: about
    shows: Colourful houses in an Istrian town
 
-inflatable-kayak-on-the-sea.jpg
+inflatable-kayak-on-the-sea.webp
    pages: kayak-tours-pula
    shows: Paddling an inflatable kayak on the sea
 
-istrian-coast-from-the-air.jpg
+istrian-coast-from-the-air.webp
    pages: istria-guide
    shows: Green Istrian coastline and calm sea from the air
 
-kayak-pula-summer.jpg
+kayak-pula-summer.webp
    pages: kayak-tours-pula
    shows: 
 
-kayak-tour-coast.jpg
+kayak-tour-coast.webp
    pages: kayak-tours-pula
    shows: 
 
-kayaker-in-evening-light.jpg
+kayaker-in-evening-light.webp
    pages: kayak-tours-pula
    shows: Kayaker paddling in the evening light
 
-kayaker-in-green-kayak.jpg
+kayaker-in-green-kayak.webp
    pages: kayak-tours-pula
    shows: Paddler in a green sea kayak
 
-kayaker-in-yellow-kayak.jpg
+kayaker-in-yellow-kayak.webp
    pages: kayak-tours-pula
    shows: Paddler in a yellow sea kayak
 
-kayaker-on-open-sea.jpg
+kayaker-on-open-sea.webp
    pages: kayak-tours-pula
    shows: Lone kayaker out on the open sea
 
-kayaking-through-a-wave.jpg
+kayaking-through-a-wave.webp
    pages: kayak-tours-pula
    shows: Kayaking through a splashing wave
 
-kayaks-from-above.jpg
+kayaks-from-above.webp
    pages: kayak-tours-pula
    shows: Four kayaks on the sea seen from above
 
-limestone-cliffs-and-sea-cave.jpg
+limestone-cliffs-and-sea-cave.webp
    pages: istria-guide
    shows: Limestone cliffs and a sea cave with clear turquoise water
 
 luxury-yacht-charter-pula.jpg
+   pages: yacht-rental-pula (social-media preview only)
+   shows: Luxury yacht rental in Pula
+
+luxury-yacht-charter-pula.webp
    pages: home, services, yacht-rental-pula
    shows: Yacht charter / Luxury yacht rental in Pula
 
 mobile-home-bungalow.jpg
+   pages: bungalow-pula (social-media preview only)
+   shows: Bungalow near the beach in Pula
+
+mobile-home-bungalow.webp
    pages: home, services, bungalow-pula
    shows: Mobile-home bungalow among the pines
 
-motor-yacht-brijuni.jpg
+motor-yacht-brijuni.webp
    pages: yacht-rental-pula
    shows: Luxury motor yacht near the Brijuni Islands
 
-narrow-alley-with-bicycle.jpg
+narrow-alley-with-bicycle.webp
    pages: istria-guide
    shows: Narrow stone alley with a bicycle and blue shutters
 
-old-town-street-wine-bar.jpg
+old-town-street-wine-bar.webp
    pages: istria-guide
    shows: Old town street with a wine bar and barrel tables
 
-pastel-houses-blue-shutters.jpg
+pastel-houses-blue-shutters.webp
    pages: istria-guide
    shows: Pastel houses with blue shutters in a quiet lane
 
-pod-of-dolphins-from-above.jpg
+pod-of-dolphins-from-above.webp
    pages: dolphin-tour-pula
    shows: Pod of dolphins seen from above
 
-pod-of-dolphins-in-green-sea.jpg
+pod-of-dolphins-in-green-sea.webp
    pages: dolphin-tour-pula
    shows: Pod of dolphins in green sea water
 
-porec-at-dusk.jpg
+porec-at-dusk.webp
    pages: istria-guide
    shows: Poreč old town lit up at dusk
 
-private-yacht-charter.jpg
+private-yacht-charter.webp
    pages: yacht-rental-pula
    shows: Private yacht charter leaving Pula harbour
 
-pula-arena-above-the-trees.jpg
+pula-arena-above-the-trees.webp
    pages: istria-guide
    shows: The Pula Arena rising above green trees
 
-pula-arena-aerial-top-down.jpg
+pula-arena-aerial-top-down.webp
    pages: istria-guide
    shows: The Pula Arena from directly above
 
-pula-arena-and-church-tower.jpg
+pula-arena-and-church-tower.webp
    pages: istria-guide
    shows: Pula Arena and the bell tower of St Anthony's church
 
-pula-arena-arches-and-lavender.jpg
+pula-arena-arches-and-lavender.webp
    pages: istria-guide
    shows: Pula Arena arches seen through lavender
 
-pula-arena-arches-golden-light.jpg
+pula-arena-arches-golden-light.webp
    pages: istria-guide
    shows: Arches of the Pula Arena in the golden evening light
 
-pula-arena-behind-cypresses.jpg
+pula-arena-behind-cypresses.webp
    pages: istria-guide
    shows: Pula Arena behind tall cypress trees
 
-pula-arena-blue-sky.jpg
+pula-arena-blue-sky.webp
    pages: istria-guide
    shows: The outer wall of the Pula Arena against a clear blue sky
 
-pula-arena-exterior-panorama.jpg
+pula-arena-exterior-panorama.webp
    pages: istria-guide
    shows: The Pula Arena seen from the street
 
-pula-arena-from-above.jpg
+pula-arena-from-above.webp
    pages: istria-guide
    shows: Pula Arena from above
 
-pula-arena-interior-seating.jpg
+pula-arena-interior-seating.webp
    pages: istria-guide
    shows: Inside the Pula Arena: the stone seating and the arena floor
 
-pula-arena-wall-and-bell-tower.jpg
+pula-arena-wall-and-bell-tower.webp
    pages: istria-guide
    shows: Pula Arena wall with a bell tower framed in an arch
 
-pula-arena-wall-and-clouds.jpg
+pula-arena-wall-and-clouds.webp
    pages: istria-guide
    shows: Pula Arena wall and summer clouds
 
-pula-arena-walls-blue-sky.jpg
+pula-arena-walls-blue-sky.webp
    pages: istria-guide
    shows: Walls of the Pula Arena against a blue sky
 
-pula-forum-square-cafes.jpg
+pula-forum-square-cafes.webp
    pages: istria-guide
    shows: Café terraces on the Forum square in Pula
 
 pula-harbour-boats.jpg
+   pages: about (social-media preview only)
+   shows: Boat excursion leaving the Riva in Pula
+
+pula-harbour-boats.webp
    pages: about, boat-tours-pula
    shows: Boat excursion leaving the Riva in Pula / Boat tour from Pula
 
-quiet-old-town-street.jpg
+quiet-old-town-street.webp
    pages: istria-guide
    shows: Quiet old town street with stone paving
 
-red-kayaks-in-turquoise-water.jpg
+red-kayaks-in-turquoise-water.webp
    pages: kayak-tours-pula
    shows: Two red kayaks in clear turquoise water
 
 rent-a-boat-pula.jpg
+   pages: rent-a-boat-pula (social-media preview only)
+   shows: Rent a boat in Pula with a skipper
+
+rent-a-boat-pula.webp
    pages: home, services, rent-a-boat-pula
    shows: Rent a boat / Rent a boat in Pula with skipper / Rent a boat in Pula with a skipper
 
-rocky-coast-cove-evening.jpg
+rocky-coast-cove-evening.webp
    pages: istria-guide
    shows: Rocky coast and a quiet cove in the evening light
 
-rocky-coast-waves-istria.jpg
+rocky-coast-waves-istria.webp
    pages: boat-tours-pula
    shows: Waves on the rocky Istrian coast
 
-rocky-shore-with-pines.jpg
+rocky-shore-with-pines.webp
    pages: istria-guide
    shows: Rocky shore with pine trees and small waves
 
-rovinj-at-dusk.jpg
+rovinj-at-dusk.webp
    pages: istria-guide
    shows: Rovinj at dusk
 
-rovinj-from-the-air-golden-hour.jpg
+rovinj-from-the-air-golden-hour.webp
    pages: istria-guide
    shows: Rovinj from the air in the golden evening light
 
-rovinj-harbour-from-above.jpg
+rovinj-harbour-from-above.webp
    pages: istria-guide
    shows: Rovinj harbour and town from above
 
-rovinj-houses-on-the-water.jpg
+rovinj-houses-on-the-water.webp
    pages: istria-guide
    shows: Rovinj houses rising straight out of the water
 
-rovinj-old-town-aerial.jpg
+rovinj-old-town-aerial.webp
    pages: istria-guide
    shows: Rovinj old town and St Euphemia's bell tower from the air
 
 rovinj-old-town.jpg
+   pages: rovinj-venice-boat-trips (social-media preview only)
+   shows: Guests enjoying the Rovinj boat trip
+
+rovinj-old-town.webp
    pages: home, services, rovinj-venice-boat-trips
    shows: Guests on the Rovinj and Vrsar day trip / Tourists on the Rovinj boat trip / Guests enjoying the Rovinj boat trip
 
-rovinj-panorama.jpg
+rovinj-panorama.webp
    pages: rovinj-venice-boat-trips
    shows: Rovinj seen from the sea
 
-rovinj-peninsula-aerial.jpg
+rovinj-peninsula-aerial.webp
    pages: istria-guide
    shows: The Rovinj peninsula and its harbour from the air
 
-rovinj-seafront-summer.jpg
+rovinj-seafront-summer.webp
    pages: istria-guide
    shows: Rovinj seafront on a sunny summer day
 
-rovinj-skyline.jpg
+rovinj-skyline.webp
    pages: rovinj-venice-boat-trips
    shows: Rovinj and the bell tower of St. Euphemia
 
-rovinj-sunset.jpg
+rovinj-sunset.webp
    pages: rovinj-venice-boat-trips
    shows: Rovinj old town at sunset
 
-rovinj-under-cloudy-sky.jpg
+rovinj-under-cloudy-sky.webp
    pages: istria-guide
    shows: Rovinj under a cloudy sky
 
-rovinj-waterfront-houses.jpg
+rovinj-waterfront-houses.webp
    pages: istria-guide
    shows: Old houses of Rovinj along the sea
 
-rovinj-with-wooden-boat.jpg
+rovinj-with-wooden-boat.webp
    pages: istria-guide
    shows: Rovinj seen from the sea, with a wooden boat in front
 
 scuba-diving-pula.jpg
+   pages: scuba-diving-pula (social-media preview only)
+   shows: Scuba diving in Pula
+
+scuba-diving-pula.webp
    pages: home, services, scuba-diving-pula
    shows: Scuba diving / Scuba diving in Pula
 
-sea-at-dusk-istria.jpg
+sea-at-dusk-istria.webp
    pages: istria-guide
    shows: The sea at dusk under an orange sky
 
-sea-cave-boat-entrance.jpg
+sea-cave-boat-entrance.webp
    pages: cave-swimming-tour-pula
    shows: Blue cave near Pula visited by boat
 
 sea-kayak-pula.jpg
+   pages: kayak-tours-pula (social-media preview only)
+   shows: Kayak tour on the coast near Pula
+
+sea-kayak-pula.webp
    pages: home, services, kayak-tours-pula
    shows: Kayak / Kayak tour in Pula / Kayak tour on the coast near Pula
 
-small-boat-by-wooded-islet.jpg
+small-boat-by-wooded-islet.webp
    pages: istria-guide
    shows: Small motorboat passing a wooded islet
 
-speedboat-anchored-in-turquoise-bay.jpg
+speedboat-anchored-in-turquoise-bay.webp
    pages: boat-excursions-pula
    shows: Motorboat anchored in a turquoise bay
 
-speedboat-rental-pula.jpg
+speedboat-rental-pula.webp
    pages: rent-a-boat-pula
    shows: Luxury boat rental in Pula with skipper
 
-stone-stairway-old-town.jpg
+stone-stairway-old-town.webp
    pages: istria-guide
    shows: Steep stone stairway between old houses
 
-street-down-to-the-marina.jpg
+street-down-to-the-marina.webp
    pages: istria-guide
    shows: Narrow street leading down to sailboats in the marina
 
-sunset-over-the-sea-istria.jpg
+sunset-over-the-sea-istria.webp
    pages: istria-guide
    shows: Sunset over the sea with a fisherman on the shore
 
-swimming-stop-boat-trip.jpg
+swimming-stop-boat-trip.webp
    pages: home, boat-tours-pula
    shows: Swimming stop at St. Jerolim on the day boat tour / Day tour with swimming
 
-temple-of-augustus-front.jpg
+temple-of-augustus-front.webp
    pages: istria-guide
    shows: Columns and steps of the Temple of Augustus in Pula
 
-temple-of-augustus-pula.jpg
+temple-of-augustus-pula.webp
    pages: istria-guide
    shows: Temple of Augustus in Pula
 
-temple-of-augustus-side-view.jpg
+temple-of-augustus-side-view.webp
    pages: istria-guide
    shows: Temple of Augustus in Pula under a deep blue sky
 
-three-dolphins-under-the-surface.jpg
+three-dolphins-under-the-surface.webp
    pages: dolphin-tour-pula
    shows: Three dolphins under the surface
 
-two-dolphin-fins-above-water.jpg
+two-dolphin-fins-above-water.webp
    pages: dolphin-tour-pula
    shows: Two dolphin fins above the water
 
-two-dolphins-in-calm-sea.jpg
+two-dolphins-in-calm-sea.webp
    pages: dolphin-tour-pula
    shows: Two dolphins surfacing in a calm sea
 
-two-dolphins-in-turquoise-water.jpg
+two-dolphins-in-turquoise-water.webp
    pages: dolphin-tour-pula
    shows: Two dolphins in turquoise water
 
-two-dolphins-riding-the-bow-wave.jpg
+two-dolphins-riding-the-bow-wave.webp
    pages: dolphin-tour-pula
    shows: Two dolphins riding the boat's bow wave
 
-two-dolphins-surfacing.jpg
+two-dolphins-surfacing.webp
    pages: dolphin-tour-pula
    shows: Two dolphins surfacing side by side
 
-two-kayaks-on-calm-water.jpg
+two-kayaks-on-calm-water.webp
    pages: kayak-tours-pula
    shows: Two kayaks on calm water
 
-two-kayaks-on-open-water.jpg
+two-kayaks-on-open-water.webp
    pages: kayak-tours-pula
    shows: Two kayaks on wide open water
 
-two-people-in-a-tandem-kayak.jpg
+two-people-in-a-tandem-kayak.webp
    pages: kayak-tours-pula
    shows: Two people paddling a tandem kayak
 
-two-sea-kayaks-from-above.jpg
+two-sea-kayaks-from-above.webp
    pages: kayak-tours-pula
    shows: Two sea kayaks seen from above
 
-veliki-brijun-aerial-islets.jpg
+veliki-brijun-aerial-islets.webp
    pages: brijuni-islands-boat-tour
    shows: Veliki Brijun from the air, with the islets beyond
 
-veliki-brijun-golf-aerial.jpg
+veliki-brijun-golf-aerial.webp
    pages: brijuni-islands-boat-tour
    shows: Golf course and bay on Veliki Brijun from above
 
-veliki-brijun-golf-bay.jpg
+veliki-brijun-golf-bay.webp
    pages: brijuni-islands-boat-tour
    shows: Golf course and turquoise bay on Veliki Brijun
 
-veliki-brijun-golf-coast.jpg
+veliki-brijun-golf-coast.webp
    pages: brijuni-islands-boat-tour
    shows: Veliki Brijun coast and golf course from the air
 
-veliki-brijun-pine-shore.jpg
+veliki-brijun-pine-shore.webp
    pages: brijuni-islands-boat-tour
    shows: Pine trees along the shore of Veliki Brijun
 
-veliki-brijun-shore-from-sea.jpg
+veliki-brijun-shore-from-sea.webp
    pages: brijuni-islands-boat-tour
    shows: Shore of Veliki Brijun seen from the sea
 
-venice-doges-palace.jpg
+venice-doges-palace.webp
    pages: rovinj-venice-boat-trips
    shows: Courtyard of the Doge's Palace in Venice
 
-venice-grand-canal.jpg
+venice-grand-canal.webp
    pages: rovinj-venice-boat-trips
    shows: Gondola on the Grand Canal in Venice
 
-venice-santa-maria-della-salute.jpg
+venice-santa-maria-della-salute.webp
    pages: rovinj-venice-boat-trips
    shows: Santa Maria della Salute in Venice
 
-venice-st-marks-basilica.jpg
+venice-st-marks-basilica.webp
    pages: home, rovinj-venice-boat-trips
    shows: St. Mark's Basilica in Venice
 
-village-square-church-inland-istria.jpg
+village-square-church-inland-istria.webp
    pages: istria-guide
    shows: Church and old stone houses on a village square in inland Istria
 
-white-passenger-boat-at-sea.jpg
+white-passenger-boat-at-sea.webp
    pages: boat-excursions-pula
    shows: White passenger boat out at sea
 
-yacht-in-marina.jpg
+yacht-in-marina.webp
    pages: yacht-rental-pula
    shows: Yacht in Pula marina
 
-yellow-door-and-shutters-courtyard.jpg
+yellow-door-and-shutters-courtyard.webp
    pages: istria-guide
    shows: Stone house with a yellow door and shutters in a green courtyard
 
-yellow-house-green-shutters.jpg
+yellow-house-green-shutters.webp
    pages: istria-guide
    shows: Yellow house with green shutters and an iron staircase
 
-yellow-house-wine-bar-corner.jpg
+yellow-house-wine-bar-corner.webp
    pages: istria-guide
    shows: Yellow house and a wine bar on an old town corner

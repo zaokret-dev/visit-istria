@@ -143,6 +143,31 @@ window.location.href = 'mailto:' + EMAIL + '?subject=' + encodeURIComponent(L.gu
 });
 }
 (function () {
+Array.prototype.forEach.call(document.querySelectorAll('.photo-tabs'), function (sec) {
+var tabs = Array.prototype.slice.call(sec.querySelectorAll('[role="tab"]'));
+if (!tabs.length) { return; }
+function sel(i, focus) {
+tabs.forEach(function (b, j) {
+var on = i === j, p = document.getElementById(b.getAttribute('aria-controls'));
+b.setAttribute('aria-selected', on ? 'true' : 'false'); b.tabIndex = on ? 0 : -1;
+if (p) { p.hidden = !on; }
+});
+if (focus) { tabs[i].focus(); }
+if (window.tiJgFix) { window.tiJgFix(); }
+}
+sec.classList.add('tabs-on'); sel(0, false);
+tabs.forEach(function (b, i) {
+b.addEventListener('click', function () { sel(i, false); });
+b.addEventListener('keydown', function (e) {
+if (e.key === 'ArrowRight' || e.key === 'ArrowDown') { e.preventDefault(); sel((i + 1) % tabs.length, true); }
+else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') { e.preventDefault(); sel((i - 1 + tabs.length) % tabs.length, true); }
+else if (e.key === 'Home') { e.preventDefault(); sel(0, true); }
+else if (e.key === 'End') { e.preventDefault(); sel(tabs.length - 1, true); }
+});
+});
+});
+})();
+(function () {
 var gs = document.querySelectorAll('.gallery.jg');
 if (!gs.length) { return; }
 function fix() {
@@ -160,14 +185,14 @@ if (used / g.clientWidth >= 0.7) { g.classList.add('lj'); }
 else { g.classList.add('lc'); row.forEach(function (i) { i.classList.add('lr'); }); }
 });
 }
-fix();
+fix(); window.tiJgFix = fix;
 var t; window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(fix, 150); });
 })();
 (function () {
 var T = { en: ['Close', 'Previous photo', 'Next photo'], de: ['Schließen', 'Vorheriges Foto', 'Nächstes Foto'], it: ['Chiudi', 'Foto precedente', 'Foto successiva'], fr: ['Fermer', 'Photo précédente', 'Photo suivante'], hu: ['Bezárás', 'Előző fotó', 'Következő fotó'], cs: ['Zavřít', 'Předchozí fotografie', 'Další fotografie'], pl: ['Zamknij', 'Poprzednie zdjęcie', 'Następne zdjęcie'], hr: ['Zatvori', 'Prethodna fotografija', 'Sljedeća fotografija'] };
 var t = T[(document.documentElement.lang || 'en').slice(0, 2)] || T.en;
 var imgs = Array.prototype.filter.call(document.querySelectorAll('main img, .page-hero img, .gallery img'), function (im) {
-return !im.closest('a') && !im.closest('button') && !im.classList.contains('img-missing') && im.offsetParent !== null;
+return !im.closest('a') && !im.closest('button') && !im.classList.contains('img-missing') && (im.offsetParent !== null || im.closest('.ppanel'));
 });
 imgs = imgs.filter(function (im, i) { return imgs.indexOf(im) === i; });
 if (!imgs.length) { return; }
@@ -188,10 +213,12 @@ box.querySelector('.lb-prev').hidden = box.querySelector('.lb-next').hidden = im
 }
 function open(i) { last = document.activeElement; show(i); box.hidden = false; document.documentElement.classList.add('lb-open'); box.querySelector('.lb-x').focus(); }
 function close() { box.hidden = true; document.documentElement.classList.remove('lb-open'); big.removeAttribute('src'); if (last && last.focus) { last.focus(); } }
-imgs.forEach(function (im, i) {
+var all = imgs;
+function openIm(im) { imgs = all.filter(function (x) { return x.offsetParent !== null; }); open(Math.max(0, imgs.indexOf(im))); }
+all.forEach(function (im) {
 im.classList.add('zoomable'); im.setAttribute('tabindex', '0');
-im.addEventListener('click', function () { open(i); });
-im.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(i); } });
+im.addEventListener('click', function () { openIm(im); });
+im.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openIm(im); } });
 });
 box.addEventListener('click', function (e) {
 if (e.target.closest('.lb-prev')) { show(cur - 1); }

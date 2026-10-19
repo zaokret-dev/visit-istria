@@ -71,17 +71,24 @@ el.innerHTML = '';
 el.appendChild(iframe);
 }, { once: true });
 });
-document.querySelectorAll('[data-map]').forEach(function (el) {
-el.addEventListener('click', function () {
+function loadMap(el) {
+if (el.getAttribute('data-loaded')) { return; }
+el.setAttribute('data-loaded', '1');
 var q = el.getAttribute('data-map');
 var iframe = document.createElement('iframe');
 iframe.src = 'https://www.google.com/maps?q=' + encodeURIComponent(q) + '&z=17&output=embed';
 iframe.title = el.getAttribute('data-title') || 'Map';
-iframe.loading = 'lazy';
 iframe.referrerPolicy = 'no-referrer-when-downgrade';
 el.innerHTML = '';
 el.appendChild(iframe);
-}, { once: true });
+}
+document.querySelectorAll('[data-map]').forEach(function (el) {
+if (el.hasAttribute('data-map-auto')) {
+if (document.readyState === 'complete') { loadMap(el); }
+else { window.addEventListener('load', function () { loadMap(el); }, { once: true }); }
+} else {
+el.addEventListener('click', function () { loadMap(el); }, { once: true });
+}
 });
 var form = document.getElementById('enquiry-form');
 if (form) {

@@ -1,4 +1,4 @@
-Photos used on the site (197 files). Put your own photos in assets/img/ with exactly these file names.
+Photos used on the site (198 files). Put your own photos in assets/img/ with exactly these file names.
 Recommended: landscape 3:2, about 1600 x 1067 px, JPG under 200 KB. The first photo of each page is also its social-media preview.
 
 apartment-rovinj-old-town.webp
@@ -349,6 +349,14 @@ four-dolphins-underwater.webp
    pages: dolphin-tour-pula
    shows: Four dolphins swimming together underwater
 
+grand-canal-venice-gondolas.jpg
+   pages: rovinj-venice-boat-trips (social-media preview only)
+   shows: The Grand Canal in Venice with gondolas, boats and colourful palaces
+
+grand-canal-venice-gondolas.webp
+   pages: rovinj-venice-boat-trips
+   shows: The Grand Canal in Venice with gondolas, boats and colourful palaces
+
 group-kayak-tour.webp
    pages: kayak-tours-pula
    shows: Group kayak tour in tandem kayaks
@@ -572,10 +580,6 @@ rovinj-houses-on-the-water.webp
 rovinj-old-town-aerial.webp
    pages: istria-guide
    shows: Rovinj old town and St Euphemia's bell tower from the air
-
-rovinj-old-town.jpg
-   pages: rovinj-venice-boat-trips (social-media preview only)
-   shows: Guests enjoying the Rovinj boat trip
 
 rovinj-old-town.webp
    pages: home, services, rovinj-venice-boat-trips

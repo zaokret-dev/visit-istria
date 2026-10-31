@@ -84,8 +84,16 @@ el.appendChild(iframe);
 }
 document.querySelectorAll('[data-map]').forEach(function (el) {
 if (el.hasAttribute('data-map-auto')) {
-if (document.readyState === 'complete') { loadMap(el); }
-else { window.addEventListener('load', function () { loadMap(el); }, { once: true }); }
+var near = function () {
+if (!('IntersectionObserver' in window)) { loadMap(el); return; }
+var io = new IntersectionObserver(function (es) {
+if (es.some(function (e) { return e.isIntersecting; })) { io.disconnect(); loadMap(el); }
+}, { rootMargin: '800px 0px' });
+io.observe(el);
+};
+if (document.readyState === 'complete') { near(); }
+else { window.addEventListener('load', near, { once: true }); }
+el.addEventListener('click', function () { loadMap(el); }, { once: true });
 } else {
 el.addEventListener('click', function () { loadMap(el); }, { once: true });
 }
@@ -199,7 +207,7 @@ var t; window.addEventListener('resize', function () { clearTimeout(t); t = setT
 var T = { en: ['Close', 'Previous photo', 'Next photo'], de: ['Schließen', 'Vorheriges Foto', 'Nächstes Foto'], it: ['Chiudi', 'Foto precedente', 'Foto successiva'], fr: ['Fermer', 'Photo précédente', 'Photo suivante'], hu: ['Bezárás', 'Előző fotó', 'Következő fotó'], cs: ['Zavřít', 'Předchozí fotografie', 'Další fotografie'], pl: ['Zamknij', 'Poprzednie zdjęcie', 'Następne zdjęcie'], hr: ['Zatvori', 'Prethodna fotografija', 'Sljedeća fotografija'] };
 var t = T[(document.documentElement.lang || 'en').slice(0, 2)] || T.en;
 var imgs = Array.prototype.filter.call(document.querySelectorAll('main img, .page-hero img, .gallery img'), function (im) {
-return !im.closest('a') && !im.closest('button') && !im.classList.contains('img-missing') && (im.offsetParent !== null || im.closest('.ppanel'));
+return !im.closest('a') && !im.closest('button') && !im.classList.contains('img-missing');
 });
 imgs = imgs.filter(function (im, i) { return imgs.indexOf(im) === i; });
 if (!imgs.length) { return; }
@@ -214,14 +222,14 @@ var big = box.querySelector('img'), cap = box.querySelector('figcaption'), cur =
 function show(i) {
 cur = (i + imgs.length) % imgs.length;
 var im = imgs[cur];
-big.src = im.getAttribute('data-full') || im.currentSrc || im.src; big.alt = im.alt || '';
+big.src = im.getAttribute('data-full') || im.src; big.alt = im.alt || '';
 cap.textContent = im.alt || '';
 box.querySelector('.lb-prev').hidden = box.querySelector('.lb-next').hidden = imgs.length < 2;
 }
 function open(i) { last = document.activeElement; show(i); box.hidden = false; document.documentElement.classList.add('lb-open'); box.querySelector('.lb-x').focus(); }
 function close() { box.hidden = true; document.documentElement.classList.remove('lb-open'); big.removeAttribute('src'); if (last && last.focus) { last.focus(); } }
 var all = imgs;
-function openIm(im) { imgs = all.filter(function (x) { return x.offsetParent !== null; }); open(Math.max(0, imgs.indexOf(im))); }
+function openIm(im) { imgs = all.filter(function (x) { return x.offsetParent !== null && !x.classList.contains('img-missing'); }); open(Math.max(0, imgs.indexOf(im))); }
 all.forEach(function (im) {
 im.classList.add('zoomable'); im.setAttribute('tabindex', '0');
 im.addEventListener('click', function () { openIm(im); });
